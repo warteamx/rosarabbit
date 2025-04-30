@@ -8,3 +8,5 @@
 - [Unbroken_Brain-Maia_Sazalavitz.md](./Unbroken_Brain-Maia_Sazalavitz.md) - Maia Szalavitz
 - [Anger: Cooling the flames](./Anger_cooling_the_flames-Thich_Nhat_Hanh.md) - Thich Nhat Hanh
 - [The Drama of the Gifted Child](./The_Drama_of_the_Gifted_Child-Alice_Miller.md) - Alice Miller
+- [Finding Meaning in the Second Half of Life](./Finding_Meaning_in_the_Second_Half_of_Life-James_Hollis.md) - James Hollis
+- 
