@@ -10,3 +10,4 @@
 - [The Drama of the Gifted Child](./The_Drama_of_the_Gifted_Child-Alice_Miller.md) - Alice Miller
 - [Finding Meaning in the Second Half of Life](./Finding_Meaning_in_the_Second_Half_of_Life-James_Hollis.md) - James Hollis
 - [The Body Keeps the Score](./The_Body_Keeps_the_Score-Bessel_van_der_Kolk.md) - Bessel van der Kolk
+- [The power of Now](./The_Power_of_Now-Eckhart_Tolle.md) - Eckhart Tolle
