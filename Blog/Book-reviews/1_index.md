@@ -14,3 +14,4 @@
 - [Talking to Strangers](./Talking_to_Strangers-Malcom_Gladwell.md) - Malcolm Gladwell
 - [Boundaries = Freedom](./Boundaries_Freedom-Joseph_Nyugen.md) - Joseph Nyugen
 - [Runnning on Empty](./Running_on_empty-Jonice_Webb.md) - Jonice Webb
+- [Revenge of the Tipping Point](./Revenge_of_the_Tipping_Point-Malcom_Gladwell.md) - Malcolm Gladwell
