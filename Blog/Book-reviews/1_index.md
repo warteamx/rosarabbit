@@ -17,3 +17,4 @@
 - [Revenge of the Tipping Point](./Revenge_of_the_Tipping_Point-Malcom_Gladwell.md) - Malcolm Gladwell
 - [Daring Greatly](./Daring_Greatly-Brene_Brown.md) - Brené Brown
 - [Breaking the Patterns of Depression](./Breaking_the_Patterns_of_Depression-Michael_Yapko.md) - Michael Yapko
+- [BitterSweet Season](./BitterSweet_Season-Jane_Gross.md) - Jane Gross
