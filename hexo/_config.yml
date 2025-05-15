@@ -103,7 +103,7 @@ theme: landscape
 deploy:
   type: 'git'
   repo: https://github.com/martinrebo/rosalab
-  branch: gh-pages
+  branch: main
   message: 'Deploy to GitHub Pages Site'
 
 
