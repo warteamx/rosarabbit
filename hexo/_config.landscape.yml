@@ -8,7 +8,7 @@ menu:
   Books: /books
   About: /about
 # RSS link
-rss: /atom.xml
+# rss: /atom.xml
 # Path of title banner image of page top
 banner: "images/banner.jpg"
 # Subtitle of page top
