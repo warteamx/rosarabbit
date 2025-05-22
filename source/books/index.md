@@ -7,6 +7,3 @@ This is the books index page. Here you can find various book reviews and recomme
 ## Categories
 - [psychology](./psyque/index.md)
 - [social](./social/index.md)
-
-
-
