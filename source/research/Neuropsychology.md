@@ -2,8 +2,6 @@
 title: Integrated Neuropsychological and Existential Framework for Mental Health
 ---
 
-# Integrated Neuropsychological and Existential Framework for Mental Health
-
 *(Targeting Chronic Depression, Anxiety, Addiction, IBS, and Narcissism in Adults 25–50)*
 
 ## Executive Summary
