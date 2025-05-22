@@ -1,38 +1,14 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+# Hello World
+This is my first post on my new blog! I'm so excited to share my thoughts and ideas with the world. Stay tuned for more updates!
 
-## Quick Start
+## About Me
+I'm a passionate writer and tech enthusiast. I love exploring new technologies and sharing my insights with others. In my spare time, I enjoy reading, hiking, and spending time with my family and friends.
 
-### Create a new post
+## Books Reviews
+I will be sharing reviews of my favorite books, including fiction, non-fiction, and self-help. I believe that reading is a powerful tool for personal growth and development, and I can't wait to share my recommendations with you. Check out my [Books](books/index.md) section for more details!
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## Research 
+I will also be sharing my research and findings on various topics, including technology, psychology, and personal development. I believe that knowledge is power, and I want to empower others with the information I discover. Stay tuned for more updates in my [Research](research/index.md) section!
