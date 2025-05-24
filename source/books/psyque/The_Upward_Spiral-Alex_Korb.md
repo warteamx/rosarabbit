@@ -2,7 +2,7 @@
 title: The Upward Spiral by Alex Korb
 ---
 
-# 📘 Book Review: *The Upward Spiral* by Alex Korb, Ph.D.
+<!-- # 📘 Book Review: *The Upward Spiral* by Alex Korb, Ph.D. -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Psychology / Mental Health / Neuroscience  
@@ -22,12 +22,15 @@ Rather than expecting a massive overhaul or waiting for sudden motivation, he sh
 ## 🌟 What Makes It Powerful
 
 ### 1. Accessible Neuroscience  
+
 Korb explains complicated brain functions (amygdala, prefrontal cortex, dopamine, serotonin) in simple, relatable language, making the science easy to understand and apply.
 
 ### 2. Small Changes, Big Effects  
+
 Instead of magical cures, Korb focuses on **tiny daily shifts**—which makes the book incredibly practical for real life, especially when energy is low.
 
 ### 3. Compassionate and Empowering  
+
 The tone is encouraging, never blaming. Korb validates how hard depression can be while offering hope through realistic, manageable steps.
 
 ---
@@ -60,7 +63,6 @@ The tone is encouraging, never blaming. Korb validates how hard depression can b
 ## 💬 Notable Quotes
 
 > “Getting out of depression requires action, but action requires motivation, and motivation requires action. It's a cycle — but understanding it lets you start the cycle anywhere.”
-
 > “Small positive steps cascade through brain circuits to build an upward spiral toward happiness.”
 
 ---
@@ -75,4 +77,3 @@ This is a must-read for anyone struggling with depression, supporting someone wh
 It's hopeful without being naive—and empowering without being overwhelming.
 
 ---
-

@@ -3,7 +3,7 @@ title: The Black Swan by Nassim Nicholas Taleb
 ---
 
 
-# 📘 Book Review: *The Black Swan* by Nassim Nicholas Taleb
+<!-- # 📘 Book Review: *The Black Swan* by Nassim Nicholas Taleb -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Non-fiction / Philosophy / Economics / Probability  
@@ -22,16 +22,20 @@ Taleb’s central idea is simple yet transformative: **the most important events
 ## 🌟 What Makes It Powerful
 
 ### 1. Reframes How We See the World  
+
 Taleb introduces two realms:
+
 - **Mediocristan**: where averages dominate (e.g., human height)
 - **Extremistan**: where outliers dominate (e.g., book sales, financial markets)
 
 Most impactful events happen in *Extremistan*, yet we mistakenly apply *Mediocristan* thinking to them.
 
 ### 2. Skewers Intellectual Arrogance  
+
 Taleb critiques economists and statisticians who overestimate their ability to predict the future, revealing how flawed assumptions in models often ignore the unpredictable.
 
 ### 3. Mix of Rigor and Attitude  
+
 The book blends deep philosophy and probability with humor, boldness, and sharp critique. Taleb’s writing is confrontational, but it drives the message home.
 
 ---
@@ -63,9 +67,7 @@ The book blends deep philosophy and probability with humor, boldness, and sharp 
 ## 💬 Key Quotes
 
 > “Black Swan logic makes what you don’t know far more relevant than what you do know.”
-
 > “The inability to predict outliers implies the inability to predict the course of history.”
-
 > “The problem with experts is that they do not know what they do not know.”
 
 ---

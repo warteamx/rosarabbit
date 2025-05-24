@@ -2,7 +2,7 @@
 title: The Power of Now by Eckhart Tolle
 ---
 
-# 📚 Book Review: *The Power of Now* by Eckhart Tolle
+<!-- # 📚 Book Review: *The Power of Now* by Eckhart Tolle -->
 
 ## 🌟 Introduction
 
@@ -60,4 +60,3 @@ Here are some practical ways you can immediately apply Tolle's teachings:
 *The Power of Now* is an invaluable resource for anyone dealing with stress, anxiety, or dissatisfaction resulting from an overly active mind. It serves as both a spiritual companion and practical handbook for cultivating a more mindful, peaceful, and fulfilling life.
 
 Embrace the power of now—your journey toward inner peace starts today. 🌞
-

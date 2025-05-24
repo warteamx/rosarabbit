@@ -2,7 +2,7 @@
 title: Daring Greatly by Brené Brown
 ---
 
-# 📘 Book Review: *Daring Greatly* by Brené Brown
+<!-- # 📘 Book Review: *Daring Greatly* by Brené Brown -->
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Self-Help / Psychology / Personal Growth  
@@ -21,12 +21,15 @@ Brown challenges the cultural myth that vulnerability is weakness. Instead, she 
 ## 🌟 What Makes It Powerful
 
 ### 1. Research Meets Real Life  
+
 Brown combines academic rigor with heartfelt storytelling, making the psychology of shame and vulnerability relatable and practical.
 
 ### 2. A New Definition of Courage  
+
 She redefines courage not as fearlessness, but as **the willingness to be vulnerable**, to risk failure and rejection in the name of growth.
 
 ### 3. Tools for Wholehearted Living  
+
 The book provides actionable strategies for developing shame resilience, practicing gratitude, and building deeper connections with others.
 
 ---
@@ -56,9 +59,7 @@ The book provides actionable strategies for developing shame resilience, practic
 ## 💬 Notable Quotes
 
 > “Vulnerability is not winning or losing; it’s having the courage to show up and be seen when we have no control over the outcome.”
-
 > “Shame corrodes the very part of us that believes we are capable of change.”
-
 > “Courage starts with showing up and letting ourselves be seen.”
 
 ---
@@ -72,4 +73,3 @@ Whether you’re navigating personal relationships, raising children, or leading
 Highly recommended for anyone ready to stop hiding and start showing up.
 
 ---
-

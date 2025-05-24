@@ -2,7 +2,7 @@
 title: The Drama of the Gifted Child by Alice Miller
 ---
 
-# 📘 Book Review: *The Drama of the Gifted Child* by Alice Miller
+<!-- # 📘 Book Review: *The Drama of the Gifted Child* by Alice Miller -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Psychology / Childhood Trauma / Self-Help  
@@ -22,12 +22,15 @@ Miller, a psychoanalyst, breaks from traditional Freudian approaches to highligh
 ## 🌟 What Makes It Powerful
 
 ### 1. A Radical Reframing of "Giftedness"  
+
 Being "gifted" isn’t about academic success—it refers to **emotional sensitivity and awareness** that, when misused by parents, leads to internal conflict.
 
 ### 2. The Courage to Confront Repressed Pain  
+
 Miller argues that healing begins only when we **face the reality of our childhood**, even if it involves confronting painful truths about our caregivers.
 
 ### 3. Breaking Cycles of Emotional Blindness  
+
 The book urges readers to move away from blind loyalty to family systems, toward **self-awareness and emotional truth**.
 
 ---
@@ -60,7 +63,6 @@ The book urges readers to move away from blind loyalty to family systems, toward
 ## 💬 Notable Quotes
 
 > “The truth about our childhood is stored up in our body, and although we can repress it, we can never alter it.”
-
 > “Experience has taught us that we have only one enduring weapon in our struggle against mental illness: the emotional discovery of the truth about the unique history of our childhood.”
 
 ---

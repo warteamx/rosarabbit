@@ -2,7 +2,7 @@
 title: Authentic Happiness by Martin E.P. Seligman
 ---
 
-# 📘 Book Review: *Authentic Happiness* by Martin E.P. Seligman
+<!-- # 📘 Book Review: *Authentic Happiness* by Martin E.P. Seligman -->
 
 **Rating:** ★★★★☆ (4/5)  
 **Genre:** Psychology / Self-Help / Personal Development  
@@ -21,13 +21,17 @@ Seligman argues that happiness is not just the result of external circumstances 
 ## 🌟 What Makes It Powerful
 
 ### 1. Science-Based Approach to Happiness  
+
 Seligman draws on rigorous psychological research, but presents it in a very accessible way. He introduces readers to tools and concepts that are **practical and measurable**—not just feel-good ideas.
 
 ### 2. Focus on Strengths, Not Just Fixing Weaknesses  
+
 Rather than trying to “fix” what's wrong with you, the book encourages you to **build on what's right**—your inherent character strengths and virtues.
 
 ### 3. Introduces the Three Dimensions of Happiness  
+
 Seligman defines a full life as one that integrates:
+
 - **Pleasant Life** (feeling good)
 - **Engaged Life** (being fully absorbed in what you do)
 - **Meaningful Life** (serving something larger than yourself)
@@ -59,9 +63,7 @@ Seligman defines a full life as one that integrates:
 ## 💬 Key Quotes
 
 > “Authentic happiness derives from raising the bar for yourself, not rating yourself against others.”
-
 > “Use your signature strengths and virtues in the service of something much larger than you are.”
-
 > “The good life is using your signature strengths every day to produce authentic happiness and abundant gratification.”
 
 ---
@@ -73,4 +75,3 @@ Seligman defines a full life as one that integrates:
 If you're looking for a **research-backed roadmap to a more meaningful and joyful life**, this book is an excellent place to start.
 
 ---
-

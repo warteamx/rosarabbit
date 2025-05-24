@@ -2,7 +2,7 @@
 title: Talking to Strangers by Malcolm Gladwell
 ---
 
-# 📘 Book Review: *Talking to Strangers* by Malcolm Gladwell
+<!-- # 📘 Book Review: *Talking to Strangers* by Malcolm Gladwell -->
 
 **Rating:** ★★★★☆ (4/5)  
 **Genre:** Psychology / Sociology / Non-Fiction  
@@ -21,12 +21,15 @@ Drawing from social psychology, criminology, and history, he investigates the co
 ## 🌟 What Makes It Powerful
 
 ### 1. Real-World Cases with Emotional Weight  
+
 Gladwell unpacks high-profile incidents (Sandra Bland, Amanda Knox, Bernie Madoff, etc.) to reveal how miscommunication and flawed assumptions can lead to injustice, tragedy, or betrayal.
 
 ### 2. Cognitive Science Made Accessible  
+
 He explains concepts like **"default to truth," "transparency illusion," and "coupling"** with clarity, making abstract psychological theories relatable and thought-provoking.
 
 ### 3. Challenges Assumptions About Human Judgment  
+
 We think we’re good at reading others—but we're not. Gladwell reveals how **human intuition fails us**, especially with people from different cultures or backgrounds.
 
 ---
@@ -53,9 +56,7 @@ We think we’re good at reading others—but we're not. Gladwell reveals how **
 ## 💬 Notable Quotes
 
 > “The right way to talk to strangers is with caution and humility.”
-
 > “We think we can easily see into the hearts of others based on the flimsiest of clues.”
-
 > “The assumption of transparency is a myth. We need to accept that the stranger is not easy.”
 
 ---
@@ -69,4 +70,3 @@ While some critics argue the book lacks concrete solutions, its strength lies in
 It’s a provocative, well-researched book—perfect for readers interested in psychology, true crime, or understanding the hidden forces behind everyday communication failures.
 
 ---
-

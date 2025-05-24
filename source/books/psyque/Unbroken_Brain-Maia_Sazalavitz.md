@@ -2,7 +2,7 @@
 title: Unbreoken Brain by Maia Szalavitz
 ---
 
-# 📘 Book Review: *Unbroken Brain* by Maia Szalavitz
+<!-- # 📘 Book Review: *Unbroken Brain* by Maia Szalavitz -->
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Non-fiction / Psychology / Neuroscience / Memoir  
@@ -21,15 +21,19 @@ With empathy, research, and personal clarity, she pushes for a deeper understand
 ## 🌟 What Makes It Powerful
 
 ### 1. Personal Narrative Meets Scientific Inquiry  
+
 Szalavitz intertwines her own struggles with addiction with cutting-edge research, offering a deeply human and well-informed view of what it means to be addicted.
 
 ### 2. Reframing Addiction  
+
 She introduces addiction as a **learning disorder**—not unlike ADHD or dyslexia—which develops during vulnerable stages of life and is tied to behavior patterns and coping mechanisms, not just chemical dependency.
 
 ### 3. Critique of Conventional Treatments  
+
 Szalavitz challenges the effectiveness of traditional 12-step programs and “tough love” approaches, arguing that compassion and individualization are more effective paths to recovery.
 
 ### 4. Policy and Social Justice  
+
 The book addresses how punitive drug policies disproportionately affect marginalized communities and calls for humane, public health-centered reforms.
 
 ---
@@ -56,7 +60,6 @@ The book addresses how punitive drug policies disproportionately affect marginal
 ## 💬 Notable Quotes
 
 > “Addiction is not a sin or a choice. But it's not a chronic, progressive brain disease like Alzheimer's either. Instead, addiction is a developmental disorder—a problem involving timing and learning.”
-
 > “We have this idea that if we are just cruel enough and mean enough and tough enough to people with addiction, that they will suddenly wake up and stop, and that is not the case.”
 
 ---
@@ -68,4 +71,3 @@ The book addresses how punitive drug policies disproportionately affect marginal
 If you care about mental health, social justice, public policy, or simply understanding people better—this is a must-read.
 
 ---
-

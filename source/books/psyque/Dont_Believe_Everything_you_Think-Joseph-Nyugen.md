@@ -2,7 +2,7 @@
 title: Don't Believe Everything You Think by Joseph Nguyen
 ---
 
-# 📘 Book Review: *Don't Believe Everything You Think* by Joseph Nguyen
+<!-- # 📘 Book Review: *Don't Believe Everything You Think* by Joseph Nguyen -->
 
 **Rating:** ★★★★☆ (4/5)  
 **Genre:** Self-Help / Mindfulness / Personal Growth  
@@ -21,12 +21,15 @@ Drawing from mindfulness, Eastern philosophy, and modern psychology, the book te
 ## 🌟 What Makes It Powerful
 
 ### 1. Simplicity and Clarity  
+
 The book is written in plain, direct language that’s easy to understand, making complex spiritual ideas feel accessible—even for beginners.
 
 ### 2. Deep Inner Insight  
+
 Nguyen challenges readers to observe their inner voice and notice how **identification with thought** is the main source of suffering.
 
 ### 3. Short, Digestible Chapters  
+
 Each chapter is concise and to the point, making it ideal for daily reflection or journaling.
 
 ---
@@ -56,9 +59,7 @@ Each chapter is concise and to the point, making it ideal for daily reflection o
 ## 💬 Notable Quotes
 
 > “You don’t suffer because of your thoughts. You suffer because you believe them.”
-
 > “There is nothing wrong with you. There is only something wrong with the thoughts you have about yourself.”
-
 > “Peace is what remains when you stop believing the thoughts that make you suffer.”
 
 ---
@@ -72,4 +73,3 @@ While the book leans more toward insight and less toward step-by-step guidance, 
 Highly recommended for fans of Eckhart Tolle, Byron Katie, or Michael Singer.
 
 ---
-

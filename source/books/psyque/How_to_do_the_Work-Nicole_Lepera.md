@@ -2,7 +2,7 @@
 title: How to Do the Work by Nicole LePera
 ---
 
-# 📘 Book Review: *How to Do the Work* by Dr. Nicole LePera
+<!-- # 📘 Book Review: *How to Do the Work* by Dr. Nicole LePera -->
 
 **Subtitle:** *Recognize Your Patterns, Heal from Your Past, and Create Your Self*  
 **Publication Date:** March 9, 2021  

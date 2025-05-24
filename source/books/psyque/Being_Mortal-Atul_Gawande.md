@@ -3,7 +3,7 @@ title: Being Mortal by Atul Gawande
 ---
 
 
-# 📘 Book Review: *Being Mortal* by Atul Gawande
+<!-- # 📘 Book Review: *Being Mortal* by Atul Gawande -->
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Non-fiction / Medicine / Philosophy  
@@ -20,12 +20,15 @@ title: Being Mortal by Atul Gawande
 ## 🌟 What Makes It Powerful
 
 ### 1. Personal and Professional Blend  
+
 Gawande brings a rare dual lens: that of a doctor and that of a son. His narratives—ranging from patients facing terminal illnesses to his own father’s decline—make the book deeply relatable and emotionally grounding.
 
 ### 2. Questioning the Medical System  
+
 He critiques the prevailing medical model that treats aging and dying as problems to be fixed, rather than natural processes to be supported.
 
 ### 3. Human Dignity at the Center  
+
 The heart of the book is about autonomy and dignity. Often, it’s not living longer, but having control, comfort, connection, and meaning in the final days.
 
 ---
@@ -60,7 +63,6 @@ The heart of the book is about autonomy and dignity. Often, it’s not living lo
 ## 💬 Key Quotes
 
 > “Our ultimate goal, after all, is not a good death but a good life to the very end.”
-
 > “You may not control life’s circumstances, but getting to be the author of your life means getting to control what you do with them.”
 
 ---
@@ -70,4 +72,3 @@ The heart of the book is about autonomy and dignity. Often, it’s not living lo
 *Being Mortal* is one of those rare books that changes how you see life—and death. It’s compassionate, wise, and quietly revolutionary. Gawande invites us to reimagine aging and mortality not with fear, but with humility and grace. This isn’t just a book about dying. It’s a book about *living well, all the way to the end*.
 
 ---
-

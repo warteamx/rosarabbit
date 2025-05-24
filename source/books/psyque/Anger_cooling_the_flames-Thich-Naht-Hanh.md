@@ -1,7 +1,7 @@
 ---
 title: Anger Cooling the Flames by Thich Nhat Hanh
 ---
-# 📘 Book Review: *Anger: Cooling the Flames* by Thich Nhat Hanh
+<!-- 📘 Book Review: *Anger: Cooling the Flames* by Thich Nhat Hanh -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Spirituality / Mindfulness / Emotional Wellness  
@@ -20,16 +20,20 @@ Using simple yet profound language, he shares practices like mindful breathing, 
 
 ## 🌟 What Makes It Powerful
 
-### 1. Radical Compassion for Anger 
+### 1. Radical Compassion for Anger
+
 Hanh does not label anger as evil or bad. Instead, he encourages us to treat it **like a wounded child**—with care, patience, and understanding.
 
-### 2. Practical Mindfulness Exercises 
+### 2. Practical Mindfulness Exercises
+
 The book is full of **real, usable practices**—from mindful walking and breathing to conscious communication—that can be applied immediately to cool anger in daily life.
 
-### 3. Healing Root Causes 
+### 3. Healing Root Causes
+
 Rather than focusing only on symptoms, Hanh teaches us to look **beneath anger**—to the hurt, fear, and suffering that fuel it.
 
-### 4. Emphasis on Relationships 
+### 4. Emphasis on Relationships
+
 Hanh shows how unskillful handling of anger can damage relationships—and how mindfulness can **rebuild trust, compassion, and understanding**.
 
 ---
@@ -62,7 +66,6 @@ Hanh shows how unskillful handling of anger can damage relationships—and how m
 ## 💬 Notable Quotes
 
 > “When you say something unkind, when you do something in retaliation, your anger increases. You make the other person suffer, and he will try harder to make you suffer. You escalate anger.”
-
 > “The energy of mindfulness is the energy of the Buddha. It is the energy of love, of understanding, of compassion, and of forgiveness.”
 
 ---

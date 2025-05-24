@@ -2,7 +2,7 @@
 title: With the End in Mind by Kathryn Mannix
 ---
 
-# 📘 Book Review: *With the End in Mind* by Kathryn Mannix
+<!-- # 📘 Book Review: *With the End in Mind* by Kathryn Mannix -->
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Non-fiction / Memoir / Palliative Care / Death & Dying  
@@ -21,12 +21,15 @@ The book isn’t about how to die, but about how to **live meaningfully while dy
 ## 🌟 What Makes It Powerful
 
 ### 1. Real Stories, Real Humanity  
+
 Each chapter features a different patient story—deeply personal, moving, and often unexpectedly beautiful. The cumulative effect is profoundly humanizing.
 
 ### 2. Compassionate and Clear Writing  
+
 Mannix writes with tenderness, clarity, and grace, using simple language to convey complex emotional and medical realities.
 
 ### 3. Dying Is Normalized  
+
 The book reframes death not as a medical failure, but as a natural part of life that deserves attention, respect, and support.
 
 ---
@@ -56,9 +59,7 @@ The book reframes death not as a medical failure, but as a natural part of life 
 ## 💬 Notable Quotes
 
 > “The process of dying is not a medical emergency. It is a physiological process that can usually be managed gently and safely.”
-
 > “It’s time to talk about dying. It’s time to share the wisdom of ordinary people having ordinary deaths.”
-
 > “In facing death, we can find more meaning in life.”
 
 ---
@@ -72,4 +73,3 @@ Kathryn Mannix doesn’t preach—she **shows** us through stories what it looks
 It’s not a book about death—it’s a book about **how to live while we can**.
 
 ---
-

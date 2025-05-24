@@ -3,7 +3,7 @@ title: BitterSweet_Season by Jane Gross
 ---
 
 
-# 📘 Book Review: *A Bittersweet Season* by Jane Gross
+<!-- # 📘 Book Review: *A Bittersweet Season* by Jane Gross -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Memoir / Elder Care / Personal Growth  
@@ -22,12 +22,15 @@ The book delves into the complexities of elder care, from navigating the healthc
 ## 🌟 What Makes It Powerful
 
 ### 1. Honest and Relatable Storytelling
+
 Gross shares her journey with candor, capturing the emotional turmoil and unexpected joys of caregiving, making readers feel seen and understood.
 
 ### 2. Practical Guidance
+
 The book is rich with actionable advice on topics like Medicare, Medicaid, assisted living, and end-of-life planning, serving as a valuable resource for caregivers.
 
 ### 3. Advocacy for Systemic Change
+
 Gross doesn't shy away from critiquing the shortcomings of the eldercare system, advocating for reforms to better support aging individuals and their families.
 
 ---
@@ -54,9 +57,7 @@ Gross doesn't shy away from critiquing the shortcomings of the eldercare system,
 ## 💬 Notable Quotes
 
 > “As painful as the role reversal between parent and child may be for you, assume it is worse for your mother or father, so take care not to demean or humiliate them.”
-
 > “Do not accept the canard that no decent child sends a parent to a nursing home.”
-
 > “Every state has its own laws, eligibility standards, and licensing requirements for financial, legal, residential, and other matters that affect the elderly.”
 
 ---
@@ -66,4 +67,3 @@ Gross doesn't shy away from critiquing the shortcomings of the eldercare system,
 *A Bittersweet Season* is an essential read for anyone facing the challenges of caring for aging parents. Jane Gross combines heartfelt storytelling with practical advice, offering a roadmap for navigating the often overwhelming journey of eldercare. Her insights not only illuminate the personal aspects of caregiving but also highlight the systemic issues that need addressing. This book serves as both a guide and a companion, reminding readers that they are not alone in their experiences.
 
 ---
-

@@ -2,8 +2,7 @@
 title: Feel Good Productivity by Ali Abdaal
 ---
 
-# Book Review: *Feel Good Productivity* by Ali Abdaal
-
+<!-- # Book Review: *Feel Good Productivity* by Ali Abdaal -->
 
 ## Overview
 
@@ -57,4 +56,3 @@ He advocates for deliberate scheduling of breaks, alignment of work with persona
 ## Final Thoughts
 
 *Feel Good Productivity* offers a refreshing and enjoyable perspective on productivity, placing happiness and well-being at its core. Highly recommended for anyone looking to achieve more without sacrificing personal fulfillment.
-

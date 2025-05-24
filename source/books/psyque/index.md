@@ -1,10 +1,14 @@
-# List of Books
+---
+title: Index of Book Reviews in Psyque
+---
+
+This is a collection of book reviews related to psychology, self-help, and personal development. Each entry includes a link to the review and the author of the book.
 
 - [The Creative Act: A Way of Being](./The_Creative_Act-Rick-Rubin) - Rick Rubin
 - [Feel Good Productivity](./Feel_Good_Productivity-Ali_Abdaal) - Ali Abdaal
 - [Being Mortal](./Being_Mortal-Atul_Gawande) - Atul Gawande
 - [Authentic_Happiness](./Authentic_Happiness-Martin_Seligman) - Martin Seligman
-- [Unbroken Brain ](./Unbroken_Brain-Maia_Sazalavitz) - Maia Szalavitz
+- [Unbroken Brain](./Unbroken_Brain-Maia_Sazalavitz) - Maia Szalavitz
 - [Anger: Cooling the flames](./Anger_cooling_the_flames-Thich_Nhat_Hanh) - Thich Nhat Hanh
 - [The Drama of the Gifted Child](./The_Drama_of_the_Gifted_Child-Alice_Miller) - Alice Miller
 - [Finding Meaning in the Second Half of Life](./Finding_Meaning_in_the_Second_Half_of_Life-James_Hollis) - James Hollis

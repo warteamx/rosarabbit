@@ -3,7 +3,7 @@ title: Boundaries = Freedom by Joseph Nguyen
 ---
 
 
-# 📘 Book Review: *Boundaries = Freedom* by Joseph Nguyen
+<!-- # 📘 Book Review: *Boundaries = Freedom* by Joseph Nguyen -->
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Self-Help / Personal Development / Mindfulness  
@@ -22,12 +22,15 @@ Drawing from mindfulness practices and psychological insights, Nguyen addresses 
 ## 🌟 What Makes It Powerful
 
 ### 1. Concise and Accessible  
+
 At under 100 pages, the book delivers impactful insights without unnecessary filler, making it approachable for readers at any stage of personal development.
 
 ### 2. Practical Strategies  
+
 Nguyen offers actionable advice on how to identify, communicate, and maintain healthy boundaries across various aspects of life, including relationships, work, and personal habits.
 
 ### 3. Emphasis on Inner Peace  
+
 The book underscores that establishing boundaries is essential for maintaining inner tranquility and preventing emotional burnout.
 
 ---
@@ -57,9 +60,7 @@ The book underscores that establishing boundaries is essential for maintaining i
 ## 💬 Notable Quotes
 
 > “Our emotional suffering does not come from the events in our lives, but from how we respond to them.”
-
 > “Each boundary we set helps to create space for a different behavior and response when we are faced with the same situation that causes our suffering.”
-
 > “The space we create within ourselves is the source of infinite possibilities for us to choose peace and a new experience of life.”
 
 ---

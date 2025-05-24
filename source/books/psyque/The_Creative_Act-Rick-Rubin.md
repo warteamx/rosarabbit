@@ -2,8 +2,9 @@
 title: The Creative Act by Rick Rubin
 ---
 
-# Tuning In to *The Creative Act: A Way of Being*  
-*Rick Rubin’s field‑guide to living on the frequency of inspiration*
+<!-- # Tuning In to *The Creative Act: A Way of Being*   -->
+
+### Rick Rubin’s field‑guide to living on the frequency of inspiration
 
 > “Creativity is not a rare talent; it is a way of operating.” — Rick Rubin
 
@@ -17,8 +18,9 @@ Picture Brian Eno’s *Oblique Strategies* shuffled with Thich Nhat Hanh, th
 
 ---
 
-## 10 Takeaways to Pin on Your Studio Wall  
-*(Even if your “studio” is a kitchen table)*
+## 10 Takeaways to Pin on Your Studio Wall
+
+### Even if your “studio” is a kitchen table
 
 1. **Everyone is creative.** Art starts at the level of attention, not skill.  
 2. **Listen before you speak.** The quality of your output mirrors the quality of your perception.  
@@ -36,11 +38,13 @@ Picture Brian Eno’s *Oblique Strategies* shuffled with Thich Nhat Hanh, th
 ## Hits, Misses & Needle‑Drops
 
 ### What sings 🎶
+
 * **Universal lens.** Whether you code, cook, or choreograph, Rubin meets you where you create.  
 * **Poetic minimalism.** Most chapters fit on a phone screen, yet feel meditative, not skimpy.  
 * **Studio lore.** Dylan, Slayer, and the Beastie Boys wander in for cameo lessons.
 
 ### What falls flat 🔇
+
 * **Aphorism overload.** If you crave step‑by‑step craft hacks, the book can feel like incense without instructions.  
 * **Guru vibes.** Lines like “The outcome is not the outcome” may trigger eye‑rolls in hardened pragmatists.
 
@@ -62,11 +66,3 @@ Picture Brian Eno’s *Oblique Strategies* shuffled with Thich Nhat Hanh, th
 *The Creative Act* isn’t a productivity manual; it’s a **tuning fork**. Strike it whenever your work feels flat. The resonance reminds you that creativity is less about talent than **tuning in—paying radical attention, trusting intuition, dancing with the unknown**. Fans of Anne Lamott’s *Bird by Bird* or Austin Kleon’s *Show Your Work!* will vibe instantly, but Rubin’s mix of studio mythos and spiritual counsel gives the genre its own low‑end thrum.
 
 **Verdict:** ⭐⭐⭐⭐☆ — a must‑read for anyone ready to swap hustle culture for a deeper groove.
-
----
-
-### Keep the groove going
-Have you tried any of Rubin’s rituals—or hacked your own? Drop a comment below or share your “sense audit” in a tweet and tag me **@YourHandle**. Let’s make creativity a conversation, not a solo.
-```
-
-**Tip:** Replace the placeholder image URL with an actual cover image link, and you’re ready to publish!
