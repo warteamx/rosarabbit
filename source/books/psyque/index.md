@@ -20,3 +20,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [Breaking the Patterns of Depression](./Breaking_the_Patterns_of_Depression-Michael_Yapko) - Michael Yapko
 - [BitterSweet Season](./BitterSweet_Season-Jane_Gross) - Jane Gross
 - [How to Do the Work](./How_to_do_the_Work-Nicole_Lepera) - Nicole Lepera
+- [Adult Children of Emotionally Immature Parents](./Adult_Children_of_Emotionally_Inmature_Parents-Lindsay_Gibson) - Lindsay Gibson
+  
