@@ -1,4 +1,8 @@
-# 📚 Book Review: *On Grief and Grieving*
+---
+title: "On Grief and Grieving"
+---
+
+## 📚 Book Review: *On Grief and Grieving*
 
 > *"Grief is not just a series of events, stages, or timelines. Our grief is as individual as our lives."*  
 > — Elisabeth Kübler-Ross & David Kessler

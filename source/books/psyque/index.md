@@ -21,6 +21,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [BitterSweet Season](./BitterSweet_Season-Jane_Gross) - Jane Gross
 - [How to Do the Work](./How_to_do_the_Work-Nicole_Lepera) - Nicole Lepera
 - [Adult Children of Emotionally Immature Parents](./Adult_Children_of_Emotionaly_Inmature_Parents_Lindsay_Gibson) - Lindsay Gibson
-- [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
-  
-  
+- [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler) - Elisabeth Kübler-Ross & David Kessler
+- [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Bronw) - Brené Brown
