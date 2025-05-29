@@ -23,3 +23,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [Adult Children of Emotionally Immature Parents](./Adult_Children_of_Emotionaly_Inmature_Parents_Lindsay_Gibson) - Lindsay Gibson
 - [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler) - Elisabeth Kübler-Ross & David Kessler
 - [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Bronw) - Brené Brown
+- [Life Lessons](./Life_Lessons-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
+
