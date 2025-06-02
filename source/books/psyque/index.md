@@ -22,6 +22,6 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [How to Do the Work](./How_to_do_the_Work-Nicole_Lepera) - Nicole Lepera
 - [Adult Children of Emotionally Immature Parents](./Adult_Children_of_Emotionaly_Inmature_Parents_Lindsay_Gibson) - Lindsay Gibson
 - [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler) - Elisabeth Kübler-Ross & David Kessler
-- [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Bronw) - Brené Brown
+- [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Brown) - Brené Brown
 - [Life Lessons](./Life_Lessons-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
-
+- [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Rober_Glover) - Robert Glover
