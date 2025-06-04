@@ -1,4 +1,9 @@
-# 📚 Book Review: *No More Mr. Nice Guy*
+---
+title: Self-Care for Adult Children of Emotionally Immature Parents
+---
+
+
+## 📚 Book Review: *No More Mr. Nice Guy*
 
 > *“Nice Guys are givers, but they often give to get.”*  
 > — Dr. Robert A. Glover
