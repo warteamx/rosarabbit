@@ -24,4 +24,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler) - Elisabeth Kübler-Ross & David Kessler
 - [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Brown) - Brené Brown
 - [Life Lessons](./Life_Lessons-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
-- [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Rober_Glover) - Robert Glover
+- [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Robert_Glover) - Robert Glover
+- [Self-Care for Adult Children of Emotionally Immature Parents](./Self_Care_for_ACoEIP-Lindsay_C_Gibson) - Lindsay C. Gibson
