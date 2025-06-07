@@ -26,3 +26,4 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [Life Lessons](./Life_Lessons-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
 - [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Robert_Glover) - Robert Glover
 - [Self-Care for Adult Children of Emotionally Immature Parents](./Self_Care_for_ACoEIP-Lindsay_C_Gibson) - Lindsay C. Gibson
+- [Highly_Sensitive_Person](./Highly_Sensitive_Person-Elaine_Aron.md) - Elaine N. Aron
