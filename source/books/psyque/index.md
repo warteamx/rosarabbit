@@ -27,3 +27,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Robert_Glover) - Robert Glover
 - [Self-Care for Adult Children of Emotionally Immature Parents](./Self_Care_for_ACoEIP-Lindsay_C_Gibson) - Lindsay C. Gibson
 - [Highly_Sensitive_Person](./Highly_Sensitive_Person-Elaine_Aron.md) - Elaine N. Aron
+- [Radical_Acceptance](./Radical_Acceptance-Tara-Brach.md) - Tara Brach
+- [Disentangling from EPIs](./Disentangling_from_EIPs-Lindsay_Gibson.md) - Lindsay_Gibson
