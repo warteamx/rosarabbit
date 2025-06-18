@@ -383,3 +383,49 @@ Whether you're struggling with shame, anxiety, grief, or emotional numbness, thi
 - Living in Love
 - Guided Meditation: Cultivating a forgiving Heart
 - Guided Meditation: Awakening Lovingkindness
+
+### Chapter 11: Awakening together 
+
+- Even when we are completely alone, we carry within us the sense of whom we belong with and our concerns about how others regard us. Feeling the care of others allows us, like the king, to awaken from trance and become whole.
+- Conscious Relationship: The heart of spiritual practice
+  - The key elements are: taking responsibility for causing pain to another, listening deeply to understand the person’s suffering, sincerely apologizing and renewing our resolve to act with compassion toward this person and all beings.
+- Walking the path with spiritual friends
+- Pain is not personal
+  - Not taking pain personally is essential to Radical Acceptance. As the Buddha taught, life’s difficulties are not owned or caused by an individual—our changing states of body and mind are influenced by myriad variables.
+- Guided Meditation: Communicating with awareness
+  - Set intention -> present, honest, kind
+  - Let body be anchor -> breathing, hands, stomach, feet
+  - Listen from heart -> attention, awareness, non-judge
+  - Speak from heart -> slow, feels true, mindfull. or not respond.
+  - Pause, relax, attend 
+  - Radical Acceptance of the moment.
+
+### Chapter 12: Realizing our true Nature
+
+- When we are trapped in the trance of feeling separate and unworthy, Buddha nature appears to be outside of us.
+- As we spiritually mature, our yearning to see truth and live with an open heart becomes more compelling than our reflex to avoid pain and chase after pleasure.
+  - We may feel mistreated and angry at our partner but we are willing to recognize our part, to see their pain, to forgive and keep loving.
+  - When we become lonely or sad, we are less inclined to dull the painful feelings with food, drugs or staying busy.
+  - We become increasingly aligned with our evolutionary destiny, which is to awaken into our natural wisdom and compassion.
+- Doubting our buddha nature
+  - “Who do you think you are?”
+- Seeing beyond the self and letting go into awareness
+  - The Buddha taught that holding on to anything, including a sense of being the observer, obscures the full freedom of awareness. 
+  - “Who is thinking?” We bring mindfulness to awareness itself. We look into awareness. By inquiring and then looking into awareness, we can cut through and dispel the deepest illusions of self that have held us separate and bound.
+  - But this emptiness, this “no-thingness,” is not empty of life. Rather, empty awareness is full with presence, alive with knowing. The very nature of awareness is cognizance, a continuous knowing of the stream of experience.
+  - Our attention is always fixating on something—a flattering comment someone said, our plan for next Saturday, an image of our dirty kitchen, a rerun of an argument. Our reality is the thoughts and dramas we see in our mental movies. **We step beyond the net by letting go of our stories and pursuits and turning toward awareness.** This is like looking back at the projector and realizing it is actually light that is making the images look alive. We look back into the emptiness that is the creative source of all stories and emotions, into the formless fertile space that gives rise to all of existence. There, we “see the universe as it is.”
+  - “Look and see . . . Let go and be free”
+  - Rather than trying to control or interpret our experience, we train to relax our grip. By wakefully letting go into what is right here, we are carried home into the mystery and beauty that is our deepest nature.
+  - The path of awakening is simply a process of wakeful, profound relaxing.
+- Realizing our nature as both emptiness and love
+  - What our mind recognizes as empty awareness, our heart experiences as love.
+  - Seeing pure awareness without engaging lovingly with our life is a daydream. Living in this relative world without vision is a nightmare.” We can be tempted, sometimes in pursuit of non-attachment, to distance ourselves from the messy wildness of our bodies and emotions, and from our relationships with each other.
+  - There was nothing to do but include in awareness wave after wave of grief.
+  - Our grief is the honest recognition that this cherished life is passing.
+  - When we are filled with wanting, grief or fear, prematurely looking toward awareness may be a way of disengaging from the rugged rawness of our emotions.
+- The pathway home: stepping into unconditional presence 
+  - The Tibetan Book of the Dead offers the deepest reassurance: “Remember these teachings, remember the clear light, the shining light of your own nature. No matter where or how far you wander, **the light is only a split second, a half a breath, away**. It is never too late to recognize the clear light of your pure awareness.”
+  - When we get lost we need only pause, look at what is true, relax our heart and arrive again.
+- Guided meditation: Who am I
+  - 
+
