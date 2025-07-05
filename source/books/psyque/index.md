@@ -31,3 +31,4 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [Disentangling from Emotionally Immature People](./Disentangling_from_EIPs-Lindsay_Gibson.md) - Lindsay C. Gibson
 - [4 Thousand Weeks](./Four_Thousand_Weeks-Oliver_Burkeman.md) - Oliver Burkeman
 - [The antidote](./The_Antidote_Oliver-Burkeman.md)
+- [The book](./The_Book-Alan_Watts.md)
