@@ -30,5 +30,6 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [Radical Acceptance](./Radical_Acceptance-Tara-Brach.md) - Tara Brach
 - [Disentangling from Emotionally Immature People](./Disentangling_from_EIPs-Lindsay_Gibson.md) - Lindsay C. Gibson
 - [4 Thousand Weeks](./Four_Thousand_Weeks-Oliver_Burkeman.md) - Oliver Burkeman
-- [The antidote](./The_Antidote_Oliver-Burkeman.md)
-- [The book](./The_Book-Alan_Watts.md)
+- [The antidote](./The_Antidote_Oliver-Burkeman.md) - Oliver Burkeman
+- [The book](./The_Book-Alan_Watts.md) - Alan Watts
+- [Mediations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md)
