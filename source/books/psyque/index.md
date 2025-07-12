@@ -33,3 +33,4 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [The antidote](./The_Antidote_Oliver-Burkeman.md) - Oliver Burkeman
 - [The book](./The_Book-Alan_Watts.md) - Alan Watts
 - [Mediations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md)
+- [Discipline is destiny](./Discipline_is_destiny-Ryan-Holiday.md)
