@@ -4,8 +4,6 @@ title: Index of Book Reviews in Psyque
 
 This is a collection of book reviews related to psychology, self-help, and personal development. Each entry includes a link to the review and the author of the book.
 
-- [The Creative Act: A Way of Being](./The_Creative_Act-Rick-Rubin) - Rick Rubin
-- [Feel Good Productivity](./Feel_Good_Productivity-Ali_Abdaal) - Ali Abdaal
 - [Being Mortal](./Being_Mortal-Atul_Gawande) - Atul Gawande
 - [Authentic Happiness](./Authentic_Happiness-Martin_Seligman) - Martin Seligman
 - [Unbroken Brain](./Unbroken_Brain-Maia_Sazalavitz) - Maia Szalavitz
@@ -32,5 +30,5 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [4 Thousand Weeks](./Four_Thousand_Weeks-Oliver_Burkeman.md) - Oliver Burkeman
 - [The antidote](./The_Antidote_Oliver-Burkeman.md) - Oliver Burkeman
 - [The book](./The_Book-Alan_Watts.md) - Alan Watts
-- [Mediations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md)
+- [Meditations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md)
 - [Discipline is destiny](./Discipline_is_destiny-Ryan-Holiday.md)

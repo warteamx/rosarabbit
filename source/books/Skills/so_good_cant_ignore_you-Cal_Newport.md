@@ -1,4 +1,7 @@
-# 📗 Book Review: *So Good They Can't Ignore You*
+---
+title: So good they can't ignore you
+---
+## 📗 Book Review: *So Good They Can't Ignore You*
 
 **Subtitle:** Why Skills Trump Passion in the Quest for Work You Love
 **Author:** Cal Newport
