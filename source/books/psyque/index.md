@@ -30,5 +30,6 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [4 Thousand Weeks](./Four_Thousand_Weeks-Oliver_Burkeman.md) - Oliver Burkeman
 - [The antidote](./The_Antidote_Oliver-Burkeman.md) - Oliver Burkeman
 - [The book](./The_Book-Alan_Watts.md) - Alan Watts
-- [Meditations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md)
-- [Discipline is destiny](./Discipline_is_destiny-Ryan-Holiday.md)
+- [Meditations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md) - Oliver Burkeman
+- [Discipline is destiny](./Discipline_is_destiny-Ryan-Holiday.md) - Ryan Holiday
+- [Radical Compassion](./Radical_Compassion-Tara_Brach.md) - Tara Brach
