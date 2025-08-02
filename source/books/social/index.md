@@ -10,3 +10,5 @@ This is the social index page. Here you can find various social topics and findi
 - [Revenge of the Tipping Point](./Revenge_of_the_Tipping_Point-Malcom_Gladwell) - Malcolm Gladwell
 - [Talking to Strangers](./Talking_to_Strangers-Malcom_Gladwell) - Malcolm Gladwell
 - [The Black Swan](./The_Black_Swan-Nassim_Taleb) - Nassim Nicholas Taleb
+- [The beginning of infinity](./the_beginning_of_infinity-David_Deutsch.md) by David Deutsch
+
