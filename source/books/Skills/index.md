@@ -10,3 +10,4 @@ title: Index of Skills
 [Deep work](./deep_work-Cal_Newport.md) by Cal Newport
 [Slow Productivity](./slow_productivity-cal_newport.md) by Cal Newport
 [Indistractable](./Indistractable-Nir_Eyal.md) by Nir Eyal
+[Essentialism](Essentialism-Greg_McKeown.md) by Greg McKeown
