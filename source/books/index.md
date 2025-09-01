@@ -9,3 +9,4 @@ This is the books index page. Here you can find various book reviews and recomme
 - [Psychology](./psyque/index)
 - [Social Sciences](./social/index)
 - [Deep Research](./research/index)
+- [Skills](./Skills/index)
