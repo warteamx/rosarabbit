@@ -36,4 +36,4 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [The power of Regret](./The_power_of_regret-Daniel_H_Pink) - Daniel H Pink
 - [When the body says no](./When_the_body_says_no-Gabor-Mate.md) - Gabor Maté
 - [Why Zebras don't get ulcers](./Why_zebras_don't_get_ulcers-Robert_M_Sapolsky.md) - Robert Sapolsky
-- 
+- [Mindsight](./Mindsight-Daniel_J_Siegel.md) - Daniel J. Siegel
