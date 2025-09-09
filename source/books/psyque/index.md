@@ -37,3 +37,4 @@ This is a collection of book reviews related to psychology, self-help, and perso
 - [When the body says no](./When_the_body_says_no-Gabor-Mate.md) - Gabor Maté
 - [Why Zebras don't get ulcers](./Why_zebras_don't_get_ulcers-Robert_M_Sapolsky.md) - Robert Sapolsky
 - [Mindsight](./Mindsight-Daniel_J_Siegel.md) - Daniel J. Siegel
+- [The end of overeating](./The_end_of_overeating-David_Kessler.md) - David Kessler
