@@ -1,6 +1,5 @@
 ---
 title: Research index
-tag: [index]
 ---
 
 ## Research

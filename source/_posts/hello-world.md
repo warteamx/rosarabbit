@@ -53,4 +53,14 @@ This blog is a place for curious thinkers, learners, and dreamers who want to gr
 
 ---
 
+## 📚 Research Articles
+
+- [Neuropsychology](/research/neuropsychology)
+- [Positive Psychology](/research/positive)
+- [Disentangling](/research/disentangling)
+
+⇒ [Full list of research Articles](/research/index)
+
+---
+
 🌟 Stay curious, stay inspired — and let RosaRabbit take you down the rabbit hole of knowledge! 🐇💡

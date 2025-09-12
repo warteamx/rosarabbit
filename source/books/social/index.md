@@ -1,7 +1,5 @@
 ---
 title: Social Science Book Reviews index
-tags:
-  - index
 ---
 
 
