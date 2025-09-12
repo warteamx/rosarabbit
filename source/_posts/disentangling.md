@@ -1,5 +1,5 @@
 ---
- title: 🛠️ Guidelines for Disentangle
+ title: 🛠️  Disentangle  🛠️ 
 ---
 
 Disentangling from emotionally immature or toxic people is not an act of cruelty — it’s a commitment to your emotional health. This process involves boundary-setting, self-awareness, emotional regulation, and ultimately, individuation — becoming your own emotionally mature self regardless of others’ reactions.

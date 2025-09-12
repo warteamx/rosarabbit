@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 👋 Hello World 👋
 ---
 
 This is my first post on my new blog! I'm so excited to share my thoughts and ideas with the world. Stay tuned for more updates!
