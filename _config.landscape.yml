@@ -4,21 +4,19 @@
 # Navigation menu
 menu:
   Home: /
-  Archives: /archives
   Books: /books
   Research: /research
-  Stories: /stories
 # RSS link
 # rss: /atom.xml
 # Path of title banner image of page top
 banner: "images/banner.jpg"
 # Subtitle of page top
-subtitle:
+subtitle: Rosa Rabbit
 # Header links with icon, specified links will appear at the top right corner of the page
 # Each name must correspond to the icon name of Fork Awesome
 # https://forkaweso.me/Fork-Awesome/icons/
 links:
-#  github: https://github.com/your_github_account
+  github: https://github.com/warteamx/rosalab
 #  twitter: https://twitter.com/your_twitter_account
 #  telegram: https://t.me/your_telegram_account
 
@@ -38,7 +36,7 @@ fancybox: true
 # copyright: |-
 #   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a></br>
 #   All website licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a></br>
-copyright: rossarabbit © 2025
+copyright: 🌹🐇 RosaRabbit
 
 # ===============
 # Sidebar
@@ -47,11 +45,12 @@ copyright: rossarabbit © 2025
 sidebar: right
 # Widgets displaying in sidebar
 widgets:
-- category
-- tag
-- tagcloud
-- archive
 - recent_posts
+# - category
+- tag
+# - tagcloud
+# - archive
+
 
 # ===============
 # Widget behavior

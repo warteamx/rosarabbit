@@ -1,5 +1,6 @@
 ---
 title: Index of Skills
+tags: [index]
 ---
 
 ## List of books

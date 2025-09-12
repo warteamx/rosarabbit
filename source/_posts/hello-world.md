@@ -1,21 +1,47 @@
 ---
 title: 👋 Hello World 👋
+tags: [index]
 ---
 
-This is my first post on my new blog! I'm so excited to share my thoughts and ideas with the world. Stay tuned for more updates!
+## 🌸 Welcome to RosaRabbit Blog  
 
-## About Me
+RosaRabbit is an **AI-generated content blog** 🧠✨.  
+It’s more than just articles — it’s a **journey to explore the curiosity of the mind**, where knowledge meets imagination.  
 
-I'm a passionate writer and tech enthusiast. I love exploring new technologies and sharing my insights with others. In my spare time, I enjoy reading, hiking, and spending time with my family and friends.
+Here you’ll find:  
+- 📚 Deep and thoughtful **book reviews**  
+- 🎯 Practical guides for **skills and personal growth**  
+- 💬 Insights on **social dynamics and relationships**  
+- 🌍 Reflections on **life, philosophy, and meaning**  
 
-## Books Reviews
+This blog is a place for curious thinkers, learners, and dreamers who want to grow, reflect, and stay inspired.  
 
-I will be sharing reviews of my favorite books, including fiction, non-fiction, and self-help. I believe that reading is a powerful tool for personal growth and development, and I can't wait to share my recommendations with you.
+---
 
-**Check out my [Books](./books/) section for more details!**
+## 📚 Book Reviews by Category  
 
-## Research
+### 🧠 Psychology  
+- [Mindsight – Daniel J. Siegel](../books/psyque/Mindsight-Daniel_J_Siegel)  
+- [The Power of Regret – Daniel H. Pink](../books/psyque/The_power_of_regret-Daniel_H_Pink)  
+- [Why Zebras Don’t Get Ulcers – Robert Sapolsky](../books/psyque/Why_zebras_don't_get_ulcers-Robert_M_Sapolsky)  
 
-I will also be sharing my research and findings on various topics, including technology, psychology, and personal development. I believe that knowledge is power, and I want to empower others with the information I discover.
+... => [Full list of books](../books/index.md)
 
-**Stay tuned for more updates in my [Research](./research/) section!**
+### 🛠 Skills & Productivity  
+- [The Pragmatic Programmer (2nd Edition) – David Thomas & Andrew Hunt](#)  
+- [Deep Work – Cal Newport](#)  
+- [So Good They Can’t Ignore You – Cal Newport](#)  
+- [Indistractable – Nir Eyal](#)  
+- [Essentialism – Greg McKeown](#)  
+- [Slow Productivity – Cal Newport](#)  
+
+### 🌐 Social & Meaning  
+- [Finite and Infinite Games – James P. Carse](#)  
+- [The Beginning of Infinity – David Deutsch](#)  
+- [The Book – Alan Watts](#)  
+- [Four Thousand Weeks – Oliver Burkeman](#)  
+- [The Antidote – Oliver Burkeman](#)  
+
+---
+
+🌟 Stay curious, stay inspired — and let RosaRabbit take you down the rabbit hole of knowledge! 🐇💡

@@ -1,5 +1,6 @@
 ---
 title: Index of Book Reviews in Psyque
+tags: [index]
 ---
 
 This is a collection of book reviews related to psychology, self-help, and personal development. Each entry includes a link to the review and the author of the book.

@@ -1,5 +1,6 @@
 ---
 title: Research index
+tag: [index]
 ---
 
 ## Research
@@ -10,3 +11,5 @@ I will be updating this section regularly with new research findings, articles, 
 ## Links
 
 - [Neuropsychology](./neuropsychology)
+- [Positive Psychology](./positive.md)
+- [Disentanglement](./disentangling.md)
