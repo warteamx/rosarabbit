@@ -1,6 +1,7 @@
 ---
 title: Social Science Book Reviews index
-tags: [index]
+tags:
+  - index
 ---
 
 
@@ -8,9 +9,9 @@ This is the social index page. Here you can find various social topics and findi
 
 ## Links
 
-- [Revenge of the Tipping Point](./Revenge_of_the_Tipping_Point-Malcom_Gladwell) - Malcolm Gladwell
-- [Talking to Strangers](./Talking_to_Strangers-Malcom_Gladwell) - Malcolm Gladwell
-- [The Black Swan](./The_Black_Swan-Nassim_Taleb) - Nassim Nicholas Taleb
-- [The beginning of infinity](./the_beginning_of_infinity-David_Deutsch.md) by David Deutsch
-- [Finite and Infinite Games](./Finite_and_Infinite_Games-James_P_Carse.md) by James P. Carse
-- [Shadows of forgotten Ancestors](./Shadows_of_our_ancestors-Carl_Sagan.md) by Carl Sagan
+- [Revenge of the Tipping Point](./revenge_of_the_tipping_point-malcom_gladwell) by Malcolm Gladwell
+- [Talking to Strangers](./talking_to_strangers-malcom_gladwell) by Malcolm Gladwell
+- [The Black Swan](./the_black_swan-nassim_taleb) by Nassim Nicholas Taleb
+- [The beginning of infinity](./the_beginning_of_infinity-david_deutsch.md) by David Deutsch
+- [Finite and Infinite Games](./finite_and_infinite_games-james_p_carse.md) by James P. Carse
+- [Shadows of forgotten Ancestors](./shadows_of_our_ancestors-carl_sagan.md) by Carl Sagan

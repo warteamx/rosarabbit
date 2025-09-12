@@ -1,41 +1,40 @@
 ---
 title: Index of Book Reviews in Psyque
-tags: [index]
 ---
 
 This is a collection of book reviews related to psychology, self-help, and personal development. Each entry includes a link to the review and the author of the book.
 
-- [Being Mortal](./Being_Mortal-Atul_Gawande) - Atul Gawande
-- [Authentic Happiness](./Authentic_Happiness-Martin_Seligman) - Martin Seligman
-- [Unbroken Brain](./Unbroken_Brain-Maia_Sazalavitz) - Maia Szalavitz
-- [Anger: Cooling the flames](./Anger_cooling_the_flames-Thich_Nhat_Hanh) - Thich Nhat Hanh
-- [The Drama of the Gifted Child](./The_Drama_of_the_Gifted_Child-Alice_Miller) - Alice Miller
-- [Finding Meaning in the Second Half of Life](./Finding_Meaning_in_the_Second_Half_of_Life-James_Hollis) - James Hollis
-- [The Body Keeps the Score](./The_Body_Keeps_the_Score-Bessel_van_der_Kolk) - Bessel van der Kolk
-- [The power of Now](./The_Power_of_Now-Eckhart_Tolle) - Eckhart Tolle
-- [Boundaries = Freedom](./Boundaries_Freedom-Joseph_Nyugen) - Joseph Nyugen
-- [Running on Empty](./Running_on_empty-Jonice_Webb) - Jonice Webb
-- [Daring Greatly](./Daring_Greatly-Brene_Brown) - Brené Brown
-- [Breaking the Patterns of Depression](./Breaking_the_Patterns_of_Depression-Michael_Yapko) - Michael Yapko
-- [Bittersweet Season](./BitterSweet_Season-Jane_Gross) - Jane Gross
-- [How to Do the Work](./How_to_do_the_Work-Nicole_Lepera) - Nicole Lepera
-- [Adult Children of Emotionally Immature Parents](./Adult_Children_of_Emotionaly_Inmature_Parents_Lindsay_Gibson) - Lindsay C. Gibson
-- [On Grief and Grieving](./On_Grief_and_Grieving-Elisabeth_Kubler) - Elisabeth Kübler-Ross & David Kessler
-- [The Gifts of Imperfection](./The_Gifts_of_Imperfection-Brene_Brown) - Brené Brown
-- [Life Lessons](./Life_Lessons-Elisabeth_Kubler-David-Kessler) - Elisabeth Kübler-Ross & David Kessler
-- [No More Mr. Nice Guy](./No_More_Mr_Nice_Guy-Robert_Glover) - Robert Glover
-- [Self-Care for Adult Children of Emotionally Immature Parents](./Self_Care_for_ACoEIP-Lindsay_C_Gibson) - Lindsay C. Gibson
-- [Highly Sensitive Person](./Highly_Sensitive_Person-Elaine_Aron.md) - Elaine N. Aron
-- [Radical Acceptance](./Radical_Acceptance-Tara-Brach.md) - Tara Brach
-- [Disentangling from Emotionally Immature People](./Disentangling_from_EIPs-Lindsay_Gibson.md) - Lindsay C. Gibson
-- [4 Thousand Weeks](./Four_Thousand_Weeks-Oliver_Burkeman.md) - Oliver Burkeman
-- [The antidote](./The_Antidote_Oliver-Burkeman.md) - Oliver Burkeman
-- [The book](./The_Book-Alan_Watts.md) - Alan Watts
-- [Meditations for mortals](./Meditations_for_Mortals-Oliver_Burkeman.md) - Oliver Burkeman
-- [Discipline is destiny](./Discipline_is_destiny-Ryan-Holiday.md) - Ryan Holiday
-- [Radical Compassion](./Radical_Compassion-Tara_Brach.md) - Tara Brach
-- [The power of Regret](./The_power_of_regret-Daniel_H_Pink) - Daniel H Pink
-- [When the body says no](./When_the_body_says_no-Gabor-Mate.md) - Gabor Maté
-- [Why Zebras don't get ulcers](./Why_zebras_don't_get_ulcers-Robert_M_Sapolsky.md) - Robert Sapolsky
-- [Mindsight](./Mindsight-Daniel_J_Siegel.md) - Daniel J. Siegel
-- [The end of overeating](./The_end_of_overeating-David_Kessler.md) - David Kessler
+- [Being Mortal](./being_mortal-atul_gawande) - Atul Gawande
+- [Authentic Happiness](./authentic_happiness-martin_seligman) - Martin Seligman
+- [Unbroken Brain](./unbroken_brain-maia_sazalavitz) - Maia Szalavitz
+- [Anger: Cooling the flames](./anger_cooling_the_flames-thich-naht-hanh) - Thich Nhat Hanh
+- [The Drama of the Gifted Child](./the_drama_of_the_gifted_child-alice_miller) - Alice Miller
+- [Finding Meaning in the Second Half of Life](./finding_meaning_in_the_second_half_of_life) - James Hollis
+- [The Body Keeps the Score](./the_body_keeps_the_score-bessel_van_der_kolk) - Bessel van der Kolk
+- [The power of Now](./the_power_of_now-eckhart_tolle) - Eckhart Tolle
+- [Boundaries = Freedom](./boundaries_freedom-joseph_nyugen) - Joseph Nyugen
+- [Running on Empty](./running_on_empty-jonice-webb) - Jonice Webb
+- [Daring Greatly](./daring_greatly-brene-brown) - Brené Brown
+- [Breaking the Patterns of Depression](./breaking_the_patterns_of_depression-michael_yapko) - Michael Yapko
+- [Bittersweet Season](./bittersweet_season-jane_gross) - Jane Gross
+- [How to Do the Work](./how_to_do_the_work-nicole_lepera) - Nicole Lepera
+- [Adult Children of Emotionally Immature Parents](./adult_children_of_emotionaly_inmature_parents_lindsay_gibson) - Lindsay C. Gibson
+- [On Grief and Grieving](./on_grief_and_grieving-elisabeth_kubler) - Elisabeth Kübler-Ross & David Kessler
+- [The Gifts of Imperfection](./the_gifts_of_imperfection-brene-brown) - Brené Brown
+- [Life Lessons](./life_lessons-elisabeth_kubler-david-kessler) - Elisabeth Kübler-Ross & David Kessler
+- [No More Mr. Nice Guy](./no_more_mr_nice_guy-robert-glover) - Robert Glover
+- [Self-Care for Adult Children of Emotionally Immature Parents](./self_care_for_acoeip-lindsay_c_gibson) - Lindsay C. Gibson
+- [Highly Sensitive Person](./highly_sensitive_person-elaine_aron.md) - Elaine N. Aron
+- [Radical Acceptance](./radical_acceptance-tara-brach.md) - Tara Brach
+- [Disentangling from Emotionally Immature People](./disentangling_from_eips-lindsay_gibson.md) - Lindsay C. Gibson
+- [4 Thousand Weeks](./four_thousand_weeks-oliver_burkeman.md) - Oliver Burkeman
+- [The antidote](./the_antidote_oliver-burkeman.md) - Oliver Burkeman
+- [The book](./the_book-alan_watts.md) - Alan Watts
+- [Meditations for mortals](./meditations_for_mortals-oliver_burkeman.md) - Oliver Burkeman
+- [Discipline is destiny](./discipline_is_destiny-ryan-holiday.md) - Ryan Holiday
+- [Radical Compassion](./radical_compassion-tara_brach.md) - Tara Brach
+- [The power of Regret](./the_power_of_regret-daniel_h_pink) - Daniel H Pink
+- [When the body says no](./when_the_body_says_no-gabor-mate.md) - Gabor Maté
+- [Why Zebras don't get ulcers](./why_zebras_don't_get_ulcers-robert_m_sapolsky.md) - Robert Sapolsky
+- [Mindsight](./mindsight-daniel_j_siegel.md) - Daniel J. Siegel
+- [The end of overeating](./the_end_of_overeating-david_kessler.md) - David Kessler
