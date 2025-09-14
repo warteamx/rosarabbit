@@ -1,8 +1,8 @@
 ---
-title: The Drama of the Gifted Child by Alice Miller
+title: The Drama of the Gifted Child
 ---
 
-<!-- # 📘 Book Review: *The Drama of the Gifted Child* by Alice Miller -->
+## 📘 Book Review: *The Drama of the Gifted Child* by Alice Miller
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Psychology / Childhood Trauma / Self-Help  

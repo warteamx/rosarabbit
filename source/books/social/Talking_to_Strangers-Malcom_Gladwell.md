@@ -1,8 +1,8 @@
 ---
-title: Talking to Strangers by Malcolm Gladwell
+title: Talking to Strangers
 ---
 
-<!-- # 📘 Book Review: *Talking to Strangers* by Malcolm Gladwell -->
+## 📘 Book Review: *Talking to Strangers* by Malcolm Gladwell
 
 **Rating:** ★★★★☆ (4/5)  
 **Genre:** Psychology / Sociology / Non-Fiction  

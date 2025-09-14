@@ -1,7 +1,7 @@
 ---
 title: When the body says no
 ---
-# 📖 Book Review: *When the Body Says No* by Gabor Maté  
+## 📖 Book Review: *When the Body Says No* by Gabor Maté  
 
 ## 📚 Metadata  
 - **Title:** When the Body Says No: Exploring the Stress-Disease Connection  

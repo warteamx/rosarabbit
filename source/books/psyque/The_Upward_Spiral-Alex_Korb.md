@@ -1,8 +1,8 @@
 ---
-title: The Upward Spiral by Alex Korb
+title: The Upward Spiral
 ---
 
-<!-- # 📘 Book Review: *The Upward Spiral* by Alex Korb, Ph.D. -->
+## 📘 Book Review: *The Upward Spiral* by Alex Korb, Ph.D.
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Psychology / Mental Health / Neuroscience  

@@ -1,4 +1,7 @@
-# 📚 Book Review: *Radical Compassion* by Tara Brach
+---
+title: Radical Compassion
+---
+## 📚 Book Review: *Radical Compassion* by Tara Brach
 
 ## 🧾 Metadata
 - **Title:** Radical Compassion  

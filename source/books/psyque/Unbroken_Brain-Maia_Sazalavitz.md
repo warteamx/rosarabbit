@@ -1,8 +1,8 @@
 ---
-title: Unbreoken Brain by Maia Szalavitz
+title: Unbroken Brain
 ---
 
-<!-- # 📘 Book Review: *Unbroken Brain* by Maia Szalavitz -->
+## 📘 Book Review: *Unbroken Brain* by Maia Szalavitz
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Non-fiction / Psychology / Neuroscience / Memoir  

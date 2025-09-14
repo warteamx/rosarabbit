@@ -1,4 +1,8 @@
-# 📚 Book Review: The Beginning of Infinity
+---
+title: The Beginning of Infinity
+---
+
+## 📚 Book Review: **The Beginning of Infinity** by David Deutsch
 
 **Subtitle:** Explanations That Transform the World
 **Author:** David Deutsch

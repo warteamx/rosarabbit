@@ -1,8 +1,8 @@
 ---
-title: The Power of Now by Eckhart Tolle
+title: The Power of Now
 ---
 
-<!-- # 📚 Book Review: *The Power of Now* by Eckhart Tolle -->
+## 📚 Book Review: *The Power of Now* by Eckhart Tolle
 
 ## 🌟 Introduction
 

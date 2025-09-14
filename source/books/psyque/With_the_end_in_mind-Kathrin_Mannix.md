@@ -2,7 +2,7 @@
 title: With the End in Mind by Kathryn Mannix
 ---
 
-<!-- # 📘 Book Review: *With the End in Mind* by Kathryn Mannix -->
+## 📘 Book Review: *With the End in Mind* by Kathryn Mannix
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Non-fiction / Memoir / Palliative Care / Death & Dying  

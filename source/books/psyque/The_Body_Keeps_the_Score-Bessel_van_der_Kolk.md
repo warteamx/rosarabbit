@@ -4,7 +4,7 @@ title: The Body Keeps the Score by Bessel van der Kolk
 
 
 
-<!-- # 📘 Book Review: *The Body Keeps the Score* by Bessel van der Kolk, M.D. -->
+## 📘 Book Review: *The Body Keeps the Score* by Bessel van der Kolk, M.D.
 
 **Rating:** ★★★★★ (5/5)  
 **Genre:** Psychology / Neuroscience / Trauma Recovery  

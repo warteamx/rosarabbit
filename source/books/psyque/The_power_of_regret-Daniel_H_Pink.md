@@ -1,5 +1,8 @@
+---
+title: The Power of Regret
+---
 
-# 📚 Book Review - *The Power of Regret* by Daniel H. Pink
+## 📚 Book Review - *The Power of Regret* by Daniel H. Pink
 
 ---
 

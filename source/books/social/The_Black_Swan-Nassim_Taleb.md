@@ -1,9 +1,9 @@
 ---
-title: The Black Swan by Nassim Nicholas Taleb
+title: The Black Swan
 ---
 
 
-<!-- # 📘 Book Review: *The Black Swan* by Nassim Nicholas Taleb -->
+## 📘 Book Review: *The Black Swan* by Nassim Nicholas Taleb
 
 **Rating:** ★★★★☆ (4.5/5)  
 **Genre:** Non-fiction / Philosophy / Economics / Probability  
