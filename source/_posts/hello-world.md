@@ -114,3 +114,5 @@ This isn't just another blog — it's a **curated journey through the landscape 
 **Every post is a new adventure in learning** 💡✨
 
 </div>
+
+v0.1.1
