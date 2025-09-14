@@ -1,66 +1,116 @@
 ---
 title: 👋 Hello World 👋
-tags:
-  - index
 ---
 
-## 🌸 Welcome to RosaRabbit Blog  
+<div style="text-align: center; margin: 2rem 0; padding: 2rem; background: linear-gradient(135deg, #ffeef8 0%, #f0f8ff 100%); border-radius: 15px; border-left: 5px solid #ff69b4;">
 
-RosaRabbit is an **AI-generated content blog** 🧠✨.  
-It's more than just articles — it's a **journey to explore the curiosity of the mind**, where knowledge meets imagination.  
+# 🌸 Welcome 🌸
 
-Here you'll find:  
-- 📚 Deep and thoughtful **book reviews**  
-- 🎯 Practical guides for **skills and personal growth**  
-- 💬 Insights on **social dynamics and relationships**  
-- 🌍 Reflections on **life, philosophy, and meaning**  
+*Where curiosity meets wisdom, and knowledge blooms like roses* 🌹
 
-This blog is a place for curious thinkers, learners, and dreamers who want to grow, reflect, and stay inspired.  
+</div>
 
----
+**RosaRabbit** is an **AI-generated content blog** that transforms complex ideas into accessible insights 🧠✨  
 
-## 📚 Book Reviews by Category  
+This isn't just another blog — it's a **curated journey through the landscape of human knowledge**, where each post is crafted to spark curiosity and deepen understanding.
 
-### 🧠 Psychology  
+### 🎯 What Awaits You Here:
 
+<div style="display: grid; gap: 1rem; margin: 1.5rem 0;">
 
-- [Mindsight – Daniel J. Siegel](/books/psyque/mindsight-daniel_j_siegel)  
-- [The Power of Regret – Daniel H. Pink](/books/psyque/the_power_of_regret-daniel_h_pink)  
-- [Why Zebras Don't Get Ulcers – Robert Sapolsky](/books/psyque/why_zebras_don't_get_ulcers-robert_m_sapolsky) 
-- [When the Body Says No – Gabor Maté](/books/psyque/when_the_body_says_no-gabor-mate)  
-- [Radical Compassion – Tara Brach](/books/psyque/radical_compassion-tara_brach)  
+📚 **Thoughtful Book Reviews** — Deep dives into transformative literature  
+🎯 **Skills & Growth Guides** — Practical wisdom for personal development  
+💬 **Social Insights** — Understanding human connections and dynamics  
+🌍 **Philosophy & Meaning** — Exploring life's biggest questions  
+🔬 **Research Highlights** — Latest findings in psychology and neuroscience
 
+</div>
 
-⇒ [Full list of books](/books/psyque/index)
-
-
-### 🛠 Skills & Productivity  
-
-- [Deep Work – Cal Newport](/books/skill/deep_work-cal_newport)  
-- [Feel Good productivity](/books/skill/feel_good_productivity-ali_abdaal)  
-- [Indistractable – Nir Eyal](/books/skill/indistractable-nir_eyal) 
-
-⇒ [Full list of books](/books/skill/index)
-
-### 🌐 Social & Meaning  
-
-- [Finite and Infinite Games – James P. Carse](/books/social/finite_and_infinite_games-james_p_carse)  
-- [The Beginning of Infinity – David Deutsch](/books/social/the_beginning_of_infinity-david_deutsch)
-- [The Black Swan - Nassim Taleb](/books/social/the_black_swan-nassim_taleb)
-
-
-⇒ [Full list of books](/books/social/index)
+*Join a community of curious minds, lifelong learners, and thoughtful dreamers on this intellectual adventure.*  
 
 ---
 
-## 📚 Research Articles
+---
 
-- [Neuropsychology](/research/neuropsychology)
-- [Positive Psychology](/research/positive)
-- [Disentangling](/research/disentangling)
+## 📚 Featured Book Reviews
 
-⇒ [Full list of research Articles](/research/index)
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+
+### 🧠 Psychology & Mind Sciences
+
+*Exploring the depths of human consciousness and behavior*
+
+- 🔍 [**Mindsight** – Daniel J. Siegel](/books/psyque/mindsight-daniel_j_siegel) — *The science of emotional awareness*
+- 🎭 [**The Power of Regret** – Daniel H. Pink](/books/psyque/the_power_of_regret-daniel_h_pink) — *Transforming negative emotions*
+- 🦓 [**Why Zebras Don't Get Ulcers** – Robert Sapolsky](/books/psyque/why_zebras_don't_get_ulcers-robert_m_sapolsky) — *Stress and the human condition*
+- 💔 [**When the Body Says No** – Gabor Maté](/books/psyque/when_the_body_says_no-gabor-mate) — *The mind-body connection*
+- 🤗 [**Radical Compassion** – Tara Brach](/books/psyque/radical_compassion-tara_brach) — *Self-acceptance and healing*
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/books/psyque/index" style="display: inline-block; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3); transition: transform 0.2s;">📖 Explore All Psychology Books →</a>
+</div>
+
+</div>
+
+
+<div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+
+### 🛠 Skills & Productivity Mastery
+
+*Practical wisdom for peak performance and personal growth*
+
+- ⚡ [**Deep Work** – Cal Newport](/books/skill/deep_work-cal_newport) — *The art of focused success*
+- 😊 [**Feel Good Productivity** – Ali Abdaal](/books/skill/feel_good_productivity-ali_abdaal) — *Sustainable high performance*
+- 🎯 [**Indistractable** – Nir Eyal](/books/skill/indistractable-nir_eyal) — *Mastering attention in a distracted world*
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/books/skill/index" style="display: inline-block; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3); transition: transform 0.2s;">🚀 Discover All Skill Books →</a>
+</div>
+
+</div>
+
+<div style="background: #d1ecf1; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+
+### 🌐 Social Dynamics & Life Philosophy
+
+*Understanding society, relationships, and the meaning of existence*
+
+- ♾️ [**Finite and Infinite Games** – James P. Carse](/books/social/finite_and_infinite_games-james_p_carse) — *The philosophy of play and purpose*
+- 🌌 [**The Beginning of Infinity** – David Deutsch](/books/social/the_beginning_of_infinity-david_deutsch) — *Knowledge, progress, and possibility*
+- 🦢 [**The Black Swan** – Nassim Taleb](/books/social/the_black_swan-nassim_taleb) — *Uncertainty and rare events*
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/books/social/index" style="display: inline-block; background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3); transition: transform 0.2s;">🌍 View All Social & Philosophy Books →</a>
+</div>
+
+</div>
 
 ---
 
-🌟 Stay curious, stay inspired — and let RosaRabbit take you down the rabbit hole of knowledge! 🐇💡
+<div style="background: #e8f5e8; padding: 1.5rem; border-radius: 10px; margin: 2rem 0;">
+
+## 🔬 Latest Research Insights
+
+*Cutting-edge findings from the world of science and psychology*
+
+- 🧠 [**Neuropsychology**](/research/neuropsychology) — *Brain science and cognitive function*
+- ✨ [**Positive Psychology**](/research/positive) — *The science of human flourishing*
+- 🔍 [**Disentangling**](/research/disentangling) — *Complex research methodologies*
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/research/index" style="display: inline-block; background: linear-gradient(45deg, #a8edea 0%, #fed6e3 100%); color: #333; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(168, 237, 234, 0.4); transition: transform 0.2s;">📊 Explore All Research Articles →</a>
+</div>
+
+</div>
+
+---
+
+<div style="text-align: center; margin: 3rem 0; padding: 2rem; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; color: white;">
+
+## 🌟 Ready to Dive Down the Rabbit Hole? 🐇
+
+*Stay curious, stay inspired, and let **RosaRabbit** guide you through the fascinating landscape of human knowledge and wisdom.*
+
+**Every post is a new adventure in learning** 💡✨
+
+</div>

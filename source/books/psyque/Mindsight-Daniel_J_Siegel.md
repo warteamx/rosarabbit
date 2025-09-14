@@ -1,5 +1,5 @@
 ---
-title: Mindsight: The New Science of Personal Transformation
+title: Mindsight - The New Science of Personal Transformation
 ---
 
 ## 🧠 Book Review: *Mindsight* by Daniel J. Siegel, M.D.

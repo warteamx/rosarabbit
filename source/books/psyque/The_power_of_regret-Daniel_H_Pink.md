@@ -1,9 +1,7 @@
---- 
-title: The power of regret 
+
+# 📚 Book Review - *The Power of Regret* by Daniel H. Pink
+
 ---
-
-
-## 📚 **Book Review: The Power of Regret**
 
 **Subtitle:** How Looking Backward Moves Us Forward
 **Author:** Daniel H. Pink
