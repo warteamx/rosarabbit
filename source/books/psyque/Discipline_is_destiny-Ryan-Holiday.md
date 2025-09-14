@@ -1,4 +1,8 @@
-# 📚 Book Review: *Discipline Is Destiny*
+---
+title: "Discipline Is Destiny"
+---
+
+## 📚 Book Review: *Discipline Is Destiny*
 
 > *“Self-discipline is a kind of freedom. Freedom from laziness and lethargy, freedom from the expectations and demands of others, freedom from weakness and fear—and doubt.”*  
 > — Ryan Holiday

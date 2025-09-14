@@ -1,4 +1,7 @@
-# 📚 Book Review: *The Book: On the Taboo Against Knowing Who You Are*
+---
+title: The Book
+---
+## 📚 Book Review: *The Book: On the Taboo Against Knowing Who You Are*
 
 > *“We do not ‘come into’ this world; we come out of it, as leaves from a tree.”*  
 > — Alan Watts

@@ -27,7 +27,7 @@ Explore the latest **scientific discoveries** and research findings that shape o
 Exploring how the brain processes information, forms memories, and influences behavior through cutting-edge neuroscience research.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./neuropsychology" style="display: inline-block; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
+<a href="/research/neuropsychology" style="display: inline-block; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
 🧠 Explore Neuropsychology →
 </a>
 </div>
@@ -43,7 +43,7 @@ Exploring how the brain processes information, forms memories, and influences be
 Research on happiness, resilience, strengths, and what makes life worth living — moving beyond treating mental illness to building positive qualities.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./positive" style="display: inline-block; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
+<a href="/research/positive" style="display: inline-block; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
 ✨ Discover Positive Psychology →
 </a>
 </div>
@@ -59,7 +59,7 @@ Research on happiness, resilience, strengths, and what makes life worth living �
 Exploring and understanding complex psychological and social phenomena of attachment through rigorous scientific analysis.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./disentangling" style="display: inline-block; background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
+<a href="/research/disentangling" style="display: inline-block; background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
 🔍 View Research Methods →
 </a>
 </div>

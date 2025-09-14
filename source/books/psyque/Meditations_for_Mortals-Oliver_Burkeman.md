@@ -1,3 +1,7 @@
+---
+title: Meditations for Mortals
+---
+
 # 📘 Book Review: *Meditations for Mortals*
 
 **Subtitle:** Four Weeks to Embrace Your Limitations and Make Time for What Counts  

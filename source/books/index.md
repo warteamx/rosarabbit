@@ -27,7 +27,7 @@ Welcome to our comprehensive collection of **thoughtfully reviewed books** that 
 Discover insights into emotional intelligence, cognitive patterns, stress management, and the fascinating workings of the human mind.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./psyque/index" style="display: inline-block; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
+<a href="/books/psyque/index" style="display: inline-block; background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
 🧠 Explore Psychology Books →
 </a>
 </div>
@@ -43,7 +43,7 @@ Discover insights into emotional intelligence, cognitive patterns, stress manage
 Practical strategies for deep work, productivity systems, habit formation, and developing expertise in any field.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./skill/index" style="display: inline-block; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
+<a href="/books/skill/index" style="display: inline-block; background: linear-gradient(45deg, #f093fb 0%, #f5576c 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
 🚀 Discover Skill Books →
 </a>
 </div>
@@ -59,7 +59,7 @@ Practical strategies for deep work, productivity systems, habit formation, and d
 Insights into human connections, social dynamics, philosophical thinking, and finding meaning in an complex world.
 
 <div style="text-align: center; margin-top: 1.5rem;">
-<a href="./social/index" style="display: inline-block; background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
+<a href="/books/social/index" style="display: inline-block; background: linear-gradient(45deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
 🌐 View Social Books →
 </a>
 </div>

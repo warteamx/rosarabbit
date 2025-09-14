@@ -1,4 +1,8 @@
-# 📚 Book Review: *Four Thousand Weeks*
+---
+title: Four Thousand Weeks
+---
+
+## 📚 Book Review: *Four Thousand Weeks*
 
 > *“The average human lifespan is absurdly, insultingly brief.”*  
 > — Oliver Burkeman

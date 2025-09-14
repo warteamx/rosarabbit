@@ -18,8 +18,8 @@ title: "🌍 Social & Philosophy"
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- 📈 [**Revenge of the Tipping Point**](./revenge_of_the_tipping_point-malcom_gladwell) *by Malcolm Gladwell* — *How small changes make big differences*
-- 🤝 [**Talking to Strangers**](./talking_to_strangers-malcom_gladwell) *by Malcolm Gladwell* — *What we should know about the people we don't know*
+- 📈 [**Revenge of the Tipping Point**](/books/social/revenge_of_the_tipping_point-malcom_gladwell) *by Malcolm Gladwell* — *How small changes make big differences*
+- 🤝 [**Talking to Strangers**](/books/social/talking_to_strangers-malcom_gladwell) *by Malcolm Gladwell* — *What we should know about the people we don't know*
 
 </div>
 
@@ -27,7 +27,7 @@ title: "🌍 Social & Philosophy"
 
 <div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- 🖤 [**The Black Swan**](./the_black_swan-nassim_taleb) *by Nassim Nicholas Taleb* — *The impact of highly improbable events*
+- 🖤 [**The Black Swan**](/books/social/the_black_swan-nassim_taleb) *by Nassim Nicholas Taleb* — *The impact of highly improbable events*
 
 </div>
 
@@ -35,9 +35,9 @@ title: "🌍 Social & Philosophy"
 
 <div style="background: #d1ecf1; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- ♾️ [**Finite and Infinite Games**](./finite_and_infinite_games-james_p_carse) *by James P. Carse* — *A vision of life as play and possibility*
-- 🚀 [**The Beginning of Infinity**](./the_beginning_of_infinity-david_deutsch) *by David Deutsch* — *Explanations that transform the world*
-- 🌟 [**Shadows of Forgotten Ancestors**](./shadows_of_our_ancestors-carl_sagan) *by Carl Sagan* — *A search for who we are*
+- ♾️ [**Finite and Infinite Games**](/books/social/finite_and_infinite_games-james_p_carse) *by James P. Carse* — *A vision of life as play and possibility*
+- 🚀 [**The Beginning of Infinity**](/books/social/the_beginning_of_infinity-david_deutsch) *by David Deutsch* — *Explanations that transform the world*
+- 🌟 [**Shadows of Forgotten Ancestors**](/books/social/shadows_of_our_ancestors-carl_sagan) *by Carl Sagan* — *A search for who we are*
 
 </div>
 

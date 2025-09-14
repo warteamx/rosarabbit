@@ -18,9 +18,9 @@ title: "🚀 Skills & Productivity Mastery"
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- 🎯 [**Deep Work**](./deep_work-cal_newport) *by Cal Newport* — *The art of focused success*
-- 🐌 [**Slow Productivity**](./slow_productivity-cal_newport) *by Cal Newport* — *Sustainable high performance*
-- 🛡️ [**Indistractable**](./indistractable-nir_eyal) *by Nir Eyal* — *Mastering attention in a distracted world*
+- 🎯 [**Deep Work**](/books/skill/deep_work-cal_newport) *by Cal Newport* — *The art of focused success*
+- 🐌 [**Slow Productivity**](/books/skill/slow_productivity-cal_newport) *by Cal Newport* — *Sustainable high performance*
+- 🛡️ [**Indistractable**](/books/skill/indistractable-nir_eyal) *by Nir Eyal* — *Mastering attention in a distracted world*
 
 </div>
 
@@ -28,8 +28,8 @@ title: "🚀 Skills & Productivity Mastery"
 
 <div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- ✨ [**The Creative Act**](./the_creative_act-rick-rubin) *by Rick Rubin* — *A way of being and creating*
-- 🏆 [**So Good They Can't Ignore You**](./so_good_cant_ignore_you-cal_newport) *by Cal Newport* — *Building rare and valuable skills*
+- ✨ [**The Creative Act**](/books/skill/the_creative_act-rick-rubin) *by Rick Rubin* — *A way of being and creating*
+- 🏆 [**So Good They Can't Ignore You**](/books/skill/so_good_cant_ignore_you-cal_newport) *by Cal Newport* — *Building rare and valuable skills*
 
 </div>
 
@@ -37,8 +37,8 @@ title: "🚀 Skills & Productivity Mastery"
 
 <div style="background: #d1ecf1; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- 😊 [**Feel Good Productivity**](./feel_good_productivity-ali_abdaal) *by Ali Abdaal* — *Sustainable systems for lasting success*
-- 🎯 [**Essentialism**](./essentialism-greg_mckeown) *by Greg McKeown* — *The disciplined pursuit of less*
+- 😊 [**Feel Good Productivity**](/books/skill/feel_good_productivity-ali_abdaal) *by Ali Abdaal* — *Sustainable systems for lasting success*
+- 🎯 [**Essentialism**](/books/skill/essentialism-greg_mckeown) *by Greg McKeown* — *The disciplined pursuit of less*
 
 </div>
 
