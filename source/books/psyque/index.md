@@ -8,7 +8,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 *Exploring consciousness, behavior, and the path to mental well-being*
 
-**34 transformative books** | *Deep insights into the human psyche*
+**35 transformative books** | *Deep insights into the human psyche*
 
 </div>
 
@@ -36,6 +36,7 @@ title: "🧠 Psychology & Mind Sciences"
 - 🧠 [**Unbroken Brain**](/books/psyque/unbroken_brain-maia_sazalavitz) *by Maia Szalavitz*
 - 🔧 [**How to Do the Work**](/books/psyque/how_to_do_the_work-nicole_lepera) *by Nicole Lepera*
 - 📊 [**Breaking the Patterns of Depression**](/books/psyque/breaking_the_patterns_of_depression-michael_yapko) *by Michael Yapko*
+- 😳 [**Heal the shame that binds you**](/books/psyque/heal_the_shame_that_binds_you-jonh-bradshaw.md) *by Jonh Bradshaw*
 
 </div>
 
