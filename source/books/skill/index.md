@@ -8,7 +8,7 @@ title: "🚀 Skills & Productivity Mastery"
 
 *Practical wisdom for peak performance and sustainable growth*
 
-**9 transformative books** | *Master the art of excellence*
+**10 transformative books** | *Master the art of excellence*
 
 </div>
 
@@ -30,6 +30,7 @@ title: "🚀 Skills & Productivity Mastery"
 
 - ✨ [**The Creative Act**](/books/skill/the_creative_act-rick-rubin) *by Rick Rubin* — *A way of being and creating*
 - 🏆 [**So Good They Can't Ignore You**](/books/skill/so_good_cant_ignore_you-cal_newport) *by Cal Newport* — *Building rare and valuable skills*
+- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman.md) *by Scott Barry Kaufman* - *grow beyond the self with purpose, love, and awe.*
 
 </div>
 
