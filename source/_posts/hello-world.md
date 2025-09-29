@@ -6,7 +6,7 @@ title: 👋 Hello World 👋
 
 # 🌸 Welcome 🌸
 
-*Where curiosity meets wisdom, and knowledge blooms like roses* 🌹
+*Follow the white rabbit 🐇 — where curiosity meets wisdom, and knowledge blooms like roses* 🌹
 
 </div>
 
@@ -26,7 +26,8 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-*Join a community of curious minds, lifelong learners, and thoughtful dreamers on this intellectual adventure.*  
+*Discover the* **RosaRabbit** *experience — where every post is a step towards greater understanding and insight.* 
+
 
 ---
 
@@ -34,10 +35,14 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ## 📚 Featured Book Reviews
 
-<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+<div style="background: #f9a3ecff; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-### Latest Review
-- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) by Scott Barry Kaufman
+### 🆕 Latest Review
+
+- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) by Scott Barry Kaufman - *grow beyond the self with purpose, love, and awe.*
+</div>
+
+<div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
 ### 🧠 Psychology & Mind Sciences
 
@@ -98,7 +103,7 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 - 🧠 [**Neuropsychology**](/research/neuropsychology) — *Brain science and cognitive function*
 - ✨ [**Positive Psychology**](/research/positive) — *The science of human flourishing*
-- 🔍 [**Disentangling**](/research/disentangling) — *Complex research methodologies*
+- 🔍 [**Disentangling**](/research/disentangling) — *Complex family systems*
 
 <div style="text-align: center; margin-top: 1.5rem;">
 <a href="/research/index" style="display: inline-block; background: linear-gradient(45deg, #a8edea 0%, #fed6e3 100%); color: #333; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(168, 237, 234, 0.4); transition: transform 0.2s;">📊 Explore All Research Articles →</a>
@@ -118,4 +123,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.4
+v0.1.5
