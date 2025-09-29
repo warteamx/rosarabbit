@@ -30,7 +30,7 @@ title: "🚀 Skills & Productivity Mastery"
 
 - ✨ [**The Creative Act**](/books/skill/the_creative_act-rick-rubin) *by Rick Rubin* — *A way of being and creating*
 - 🏆 [**So Good They Can't Ignore You**](/books/skill/so_good_cant_ignore_you-cal_newport) *by Cal Newport* — *Building rare and valuable skills*
-- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman.md) *by Scott Barry Kaufman* - *grow beyond the self with purpose, love, and awe.*
+- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) *by Scott Barry Kaufman* - *grow beyond the self with purpose, love, and awe.*
 
 </div>
 

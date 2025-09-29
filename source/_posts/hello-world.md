@@ -36,6 +36,9 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
+### Latest Review
+- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) by Scott Barry Kaufman
+
 ### 🧠 Psychology & Mind Sciences
 
 *Exploring the depths of human consciousness and behavior*
@@ -115,4 +118,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.3
+v0.1.4
