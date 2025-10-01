@@ -8,7 +8,7 @@ title: "🚀 Skills & Productivity Mastery"
 
 *Practical wisdom for peak performance and sustainable growth*
 
-**10 transformative books** | *Master the art of excellence*
+**11 transformative books** | *Master the art of excellence*
 
 </div>
 
@@ -41,7 +41,8 @@ title: "🚀 Skills & Productivity Mastery"
 - 😊 [**Feel Good Productivity**](/books/skill/feel_good_productivity-ali_abdaal) *by Ali Abdaal* — *Sustainable systems for lasting success*
 - 🎯 [**Essentialism**](/books/skill/essentialism-greg_mckeown) *by Greg McKeown* — *The disciplined pursuit of less*
 - 🧠 [**Mindset**](/books/skill/mindset-carol_dweck) *by Carol Dweck* - *The new psychology of success*
-- 📆 [**Grit**](/books/skill/grit-angela_duckworth.md) *by Angela Duckworth* - *The Power of Passion and Perseverance*
+- 📆 [**Grit**](/books/skill/grit-angela_duckworth) *by Angela Duckworth* - *The Power of Passion and Perseverance*
+- ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
 
 </div>
 
