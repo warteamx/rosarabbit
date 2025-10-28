@@ -35,9 +35,11 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ## 📚 Featured Book Reviews
 
-<div style="background: #f4c3edff; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
+<div style="background: #cdd6fbff; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
 ### 🆕 Latest Reviews
+
+- ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
 
 - ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
 
@@ -125,4 +127,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.6
+v0.1.7

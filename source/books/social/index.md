@@ -8,7 +8,7 @@ title: "🌍 Social & Philosophy"
 
 *Understanding society, relationships, and life's deeper questions*
 
-**6 transformative books** | *Navigate the complexity of human existence*
+**7 transformative books** | *Navigate the complexity of human existence*
 
 </div>
 
@@ -18,6 +18,7 @@ title: "🌍 Social & Philosophy"
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
+- ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
 - 📈 [**Revenge of the Tipping Point**](/books/social/revenge_of_the_tipping_point-malcom_gladwell) *by Malcolm Gladwell* — *How small changes make big differences*
 - 🤝 [**Talking to Strangers**](/books/social/talking_to_strangers-malcom_gladwell) *by Malcolm Gladwell* — *What we should know about the people we don't know*
 
