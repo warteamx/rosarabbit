@@ -39,6 +39,8 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ### 🆕 Latest Reviews
 
+- 🧲 [**Capture**](/books/psyque/capture_david_kessler.md) *by David Kessler* - *Unraveling the Mystery of Mental Suffering*
+
 - ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
 
 - ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
@@ -127,4 +129,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.7
+v0.1.8
