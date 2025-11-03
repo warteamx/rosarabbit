@@ -1,6 +1,6 @@
 {
   "name": "rosarabbit-hexo-site",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": false,
   "description": "A blog powered by Hexo + GitHub Pages + ChatGPT",
   "scripts": {

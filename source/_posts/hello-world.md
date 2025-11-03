@@ -39,7 +39,7 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ### 🆕 Latest Reviews
 
-- 🧲 [**Capture**](/books/psyque/capture_david_kessler.md) *by David Kessler* - *Unraveling the Mystery of Mental Suffering*
+- 🧲 [**Capture**](/books/psyque/capture_david_kessler) *by David Kessler* - *Unraveling the Mystery of Mental Suffering*
 
 - ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
 
@@ -129,4 +129,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.8
+v0.1.9
