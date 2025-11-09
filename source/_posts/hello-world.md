@@ -129,4 +129,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.9
+v0.1.10

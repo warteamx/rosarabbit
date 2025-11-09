@@ -8,7 +8,7 @@ title: "🌍 Social & Philosophy"
 
 *Understanding society, relationships, and life's deeper questions*
 
-**7 transformative books** | *Navigate the complexity of human existence*
+**8 transformative books** | *Navigate the complexity of human existence*
 
 </div>
 
@@ -29,6 +29,7 @@ title: "🌍 Social & Philosophy"
 <div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
 - 🖤 [**The Black Swan**](/books/social/the_black_swan-nassim_taleb) *by Nassim Nicholas Taleb* — *The impact of highly improbable events*
+- ⚰️ [**The Denial of Death**](/books/social/denial_of_death-ernest_Becker) *by Ernest Becker* 
 
 </div>
 
