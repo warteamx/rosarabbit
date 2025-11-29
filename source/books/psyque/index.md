@@ -8,7 +8,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 *Exploring consciousness, behavior, and the path to mental well-being*
 
-**35 transformative books** | *Deep insights into the human psyche*
+**41 transformative books** | *Deep insights into the human psyche*
 
 </div>
 
@@ -86,7 +86,7 @@ title: "🧠 Psychology & Mind Sciences"
 - 😢 [**On Grief and Grieving**](/books/psyque/on_grief_and_grieving-elisabeth_kubler) *by Elisabeth Kübler-Ross & David Kessler*
 - 🌼 [**Life Lessons**](/books/psyque/life_lessons-elisabeth_kubler-david-kessler) *by Elisabeth Kübler-Ross & David Kessler*
 - 🍂 [**Bittersweet Season**](/books/psyque/bittersweet_season-jane_gross) *by Jane Gross*
-
+- 🧠 [**The Grieving Brain**](/books/psyque/the_grieving_brain-mary-frances-o_connor) *by Mary Frances O'Connor* 
 </div>
 
 ## 🌈 Positive Psychology & Well-being

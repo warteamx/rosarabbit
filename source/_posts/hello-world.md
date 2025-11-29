@@ -10,7 +10,7 @@ title: 👋 Hello World 👋
 
 </div>
 
-**RosaRabbit** is an **AI-generated content blog** that transforms complex ideas into accessible insights 🧠✨  
+**RosaRabbit** is an **AI-generated content blog** that transforms complex ideas and books into accessible insights 🧠✨  
 
 This isn't just another blog — it's a **curated journey through the landscape of human knowledge**, where each post is crafted to spark curiosity and deepen understanding.
 
@@ -129,4 +129,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.10
+v0.1.11
