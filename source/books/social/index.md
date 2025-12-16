@@ -8,7 +8,7 @@ title: "🌍 Social & Philosophy"
 
 *Understanding society, relationships, and life's deeper questions*
 
-**8 transformative books** | *Navigate the complexity of human existence*
+**11 transformative books** | *Navigate the complexity of human existence*
 
 </div>
 
@@ -30,6 +30,7 @@ title: "🌍 Social & Philosophy"
 
 - 🖤 [**The Black Swan**](/books/social/the_black_swan-nassim_taleb) *by Nassim Nicholas Taleb* — *The impact of highly improbable events*
 - ⚰️ [**The Denial of Death**](/books/social/denial_of_death-ernest_Becker) *by Ernest Becker* 
+- 🌎 [**A short story of nearly everything 2.0**](/books/social/short_history_nearly_everything_2.0-bill-bryson) *by Bill Bryson*
 
 </div>
 
@@ -40,6 +41,7 @@ title: "🌍 Social & Philosophy"
 - ♾️ [**Finite and Infinite Games**](/books/social/finite_and_infinite_games-james_p_carse) *by James P. Carse* — *A vision of life as play and possibility*
 - 🚀 [**The Beginning of Infinity**](/books/social/the_beginning_of_infinity-david_deutsch) *by David Deutsch* — *Explanations that transform the world*
 - 🌟 [**Shadows of Forgotten Ancestors**](/books/social/shadows_of_our_ancestors-carl_sagan) *by Carl Sagan* — *A search for who we are*
+- ɸ [**The Wisdom of insecurity**](/books/social/the_wisdom_of_insecurity-alan_watts) *by Alan Watts* - *A Message for an Age of Anxiety*
 
 </div>
 

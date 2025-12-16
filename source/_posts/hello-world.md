@@ -39,14 +39,12 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ### 🆕 Latest Reviews
 
-- 🧲 [**Capture**](/books/psyque/capture_david_kessler) *by David Kessler* - *Unraveling the Mystery of Mental Suffering*
+- 🌎 [**A short story of nearly everything 2.0**](/books/social/short_history_nearly_everything_2.0-bill-bryson) *by Bill Bryson*
 
 - ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
 
 - ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
 
-- ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) *by Scott Barry Kaufman* - *The New Science of Self-Actualization*
-</div>
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
@@ -129,4 +127,4 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 </div>
 
-v0.1.11
+v0.1.12
