@@ -18,7 +18,8 @@ title: "🧠 Psychology & Mind Sciences"
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- [**the 6th Stage of Grief**](/books/psyque/the_6th_stage_of_grief-david_kessler) *by David Kessler*
+- 🧠 [**Reframe Your Brain**](/books/psyque/reframe_your_brain-scott_adams) *by Scott Adams*
+- 🥲 [**the 6th Stage of Grief**](/books/psyque/the_6th_stage_of_grief-david_kessler) *by David Kessler*
 - 🔍 [**Mindsight**](/books/psyque/mindsight-daniel_j_siegel) *by Daniel J. Siegel*
 - ✨ [**The Power of Now**](/books/psyque/the_power_of_now-eckhart_tolle) *by Eckhart Tolle*
 - 🤗 [**Radical Acceptance**](/books/psyque/radical_acceptance-tara-brach) *by Tara Brach*
