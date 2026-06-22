@@ -8,7 +8,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 *Exploring consciousness, behavior, and the path to mental well-being*
 
-**41 transformative books** | *Deep insights into the human psyche*
+**44 transformative books** | *Deep insights into the human psyche*
 
 </div>
 
@@ -18,8 +18,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- 🧠 [**Reframe Your Brain**](/books/psyque/reframe_your_brain-scott_adams) *by Scott Adams*
-- 🥲 [**the 6th Stage of Grief**](/books/psyque/the_6th_stage_of_grief-david_kessler) *by David Kessler*
+
 - 🔍 [**Mindsight**](/books/psyque/mindsight-daniel_j_siegel) *by Daniel J. Siegel*
 - ✨ [**The Power of Now**](/books/psyque/the_power_of_now-eckhart_tolle) *by Eckhart Tolle*
 - 🤗 [**Radical Acceptance**](/books/psyque/radical_acceptance-tara-brach) *by Tara Brach*
@@ -32,6 +31,10 @@ title: "🧠 Psychology & Mind Sciences"
 
 <div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
+
+- 🧠 [**Scarcity Brain**](/books/psyque/scarcity_brain-michael_easter) *by Michael Easter* 
+- 🧠 [**Reframe Your Brain**](/books/psyque/reframe_your_brain-scott_adams) *by Scott Adams*
+- 🥲 [**the 6th Stage of Grief**](/books/psyque/the_6th_stage_of_grief-david_kessler) *by David Kessler*
 - 🩸 [**The Body Keeps the Score**](/books/psyque/the_body_keeps_the_score-bessel_van_der_kolk) *by Bessel van der Kolk*
 - 💔 [**When the Body Says No**](/books/psyque/when_the_body_says_no-gabor-mate) *by Gabor Maté*
 - 🦓 [**Why Zebras Don't Get Ulcers**](/books/psyque/why_zebras_don't_get_ulcers-robert_m_sapolsky) *by Robert Sapolsky*
