@@ -8,7 +8,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 *Exploring consciousness, behavior, and the path to mental well-being*
 
-**44 transformative books** | *Deep insights into the human psyche*
+**45 transformative books** | *Deep insights into the human psyche*
 
 </div>
 
@@ -98,6 +98,7 @@ title: "🧠 Psychology & Mind Sciences"
 
 <div style="background: #fff8dc; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
+- 🧠 [**Optimal**](/books/psyque/optimal-daniel_goleman) *by Daniel Goleman*
 - 😊 [**Authentic Happiness**](/books/psyque/authentic_happiness-martin_seligman) *by Martin Seligman*
 - 🌺 [**Highly Sensitive Person**](/books/psyque/highly_sensitive_person-elaine_aron) *by Elaine N. Aron*
 - 🍽️ [**The End of Overeating**](/books/psyque/the_end_of_overeating-david_kessler) *by David Kessler*
