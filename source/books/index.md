@@ -34,6 +34,38 @@ Discover insights into emotional intelligence, cognitive patterns, stress manage
 
 </div>
 
+<div style="background: #eef7ff; padding: 2rem; border-radius: 15px; border-left: 5px solid #5aa9e6;">
+
+### 🧩 ADHD
+
+*Support systems, focus tools, and practical guidance for ADHD minds*
+
+Science-backed and experience-driven books for attention, executive function, motivation, and sustainable daily structure.
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/books/adhd/index" style="display: inline-block; background: linear-gradient(45deg, #5aa9e6 0%, #7fc8f8 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(90, 169, 230, 0.3);">
+🧩 Explore ADHD Books →
+</a>
+</div>
+
+</div>
+
+<div style="background: #eef8f2; padding: 2rem; border-radius: 15px; border-left: 5px solid #5fb49c;">
+
+### 🌿 Mindfulness & Well-Being
+
+*Cultivate calm, presence, emotional balance, and long-term resilience*
+
+Practical mindfulness and well-being books focused on attention training, self-regulation, and living with intention.
+
+<div style="text-align: center; margin-top: 1.5rem;">
+<a href="/books/mindfulness/index" style="display: inline-block; background: linear-gradient(45deg, #5fb49c 0%, #a7d676 100%); color: white; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 15px rgba(95, 180, 156, 0.3);">
+🌿 Explore Mindfulness Books →
+</a>
+</div>
+
+</div>
+
 <div style="background: #fff3cd; padding: 2rem; border-radius: 15px; border-left: 5px solid #f093fb;">
 
 ### 🛠 Skills & Productivity
