@@ -43,7 +43,7 @@ title: "🚀 Skills & Productivity Mastery"
 - 🧠 [**Mindset**](/books/skill/mindset-carol_dweck) *by Carol Dweck* - *The new psychology of success*
 - 📆 [**Grit**](/books/skill/grit-angela_duckworth) *by Angela Duckworth* - *The Power of Passion and Perseverance*
 - ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
-- 🙊 [**Chatter**](books/skill/chatter-ethan_kross) *by Ethan Kross* - *The Voice in Our Head, Why It Matters, and How to Harness It*
+- 🙊 [**Chatter**](/books/skill/chatter-ethan_kross) *by Ethan Kross* - *The Voice in Our Head, Why It Matters, and How to Harness It*
 </div>
 
 ---

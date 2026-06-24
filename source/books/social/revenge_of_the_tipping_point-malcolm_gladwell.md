@@ -1,5 +1,5 @@
 ---
-title: Revenge of the Tipping Point by Malcolm Gladwell
+title: Revenge of the Tipping Point
 ---
 
 <!-- # 📘 Book Review: *Revenge of the Tipping Point* by Malcolm Gladwell -->

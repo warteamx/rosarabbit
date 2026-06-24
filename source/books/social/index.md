@@ -8,40 +8,32 @@ title: "🌍 Social & Philosophy"
 
 *Understanding society, relationships, and life's deeper questions*
 
-**11 transformative books** | *Navigate the complexity of human existence*
+**16 book reviews** | *Complete index of all reviews in this collection*
 
 </div>
 
 ---
 
-## 🧠 Social Psychology & Human Behavior
+## 📚 Complete Review Index
 
 <div style="background: #f8f9fa; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
 
-- ⚖️ [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene) *by Robert Greene* 
-- 📈 [**Revenge of the Tipping Point**](/books/social/revenge_of_the_tipping_point-malcom_gladwell) *by Malcolm Gladwell* — *How small changes make big differences*
-- 🤝 [**Talking to Strangers**](/books/social/talking_to_strangers-malcom_gladwell) *by Malcolm Gladwell* — *What we should know about the people we don't know*
-
-</div>
-
-## 🦢 Uncertainty & Complex Systems
-
-<div style="background: #fff3cd; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
-
-- 🖤 [**The Black Swan**](/books/social/the_black_swan-nassim_taleb) *by Nassim Nicholas Taleb* — *The impact of highly improbable events*
-- ⚰️ [**The Denial of Death**](/books/social/denial_of_death-ernest_Becker) *by Ernest Becker* 
-- 🌎 [**A short story of nearly everything 2.0**](/books/social/short_history_nearly_everything_2.0-bill-bryson) *by Bill Bryson*
-
-</div>
-
-## 🌌 Philosophy & Meaning
-
-<div style="background: #d1ecf1; padding: 1.5rem; border-radius: 10px; margin: 1rem 0;">
-
-- ♾️ [**Finite and Infinite Games**](/books/social/finite_and_infinite_games-james_p_carse) *by James P. Carse* — *A vision of life as play and possibility*
-- 🚀 [**The Beginning of Infinity**](/books/social/the_beginning_of_infinity-david_deutsch) *by David Deutsch* — *Explanations that transform the world*
-- 🌟 [**Shadows of Forgotten Ancestors**](/books/social/shadows_of_our_ancestors-carl_sagan) *by Carl Sagan* — *A search for who we are*
-- ɸ [**The Wisdom of insecurity**](/books/social/the_wisdom_of_insecurity-alan_watts) *by Alan Watts* - *A Message for an Age of Anxiety*
+- [**Altered Traits**](/books/social/altered_traits-daniel_goleman)
+- [**Beyond Belief**](/books/social/beyond_belief-nir-eyal)
+- [**The Denial of Death**](/books/social/denial_of_death-ernest_becker)
+- [**Enshittification**](/books/social/enshittification-cory-doctorow)
+- [**Finite and Infinite Games**](/books/social/finite_and_infinite_games-james_p_carse)
+- [**The Laws of Human Nature**](/books/social/laws_of_human_nature-robert-greene)
+- [**Revenge of the Tipping Point**](/books/social/revenge_of_the_tipping_point-malcolm_gladwell)
+- [**Shadows of Forgotten Ancestors**](/books/social/shadows_of_our_ancestors-carl_sagan)
+- [**A Short History of Nearly Everything 2.0**](/books/social/short_history_nearly_everything_2.0-bill-bryson)
+- [**Starry Messenger**](/books/social/starry_messenger-neil-degrasse)
+- [**Talking to Strangers**](/books/social/talking_to_strangers-malcolm_gladwell)
+- [**The Beginning of Infinity**](/books/social/the_beginning_of_infinity-david_deutsch)
+- [**The Black Swan**](/books/social/the_black_swan-nassim_taleb)
+- [**The Comfort Crisis**](/books/social/the_comfort_crisis-michael_easter)
+- [**The Wisdom of Insecurity**](/books/social/the_wisdom_of_insecurity-alan_watts)
+- [**When Everybody Knows**](/books/social/when_everybody_knows-steven_pinker)
 
 </div>
 
