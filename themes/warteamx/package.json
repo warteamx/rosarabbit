@@ -1,0 +1,12 @@
+{
+  "name": "hexo-theme-warteamx",
+  "version": "1.0.0",
+  "description": "WarteamX brand theme for Hexo — dark/light mode, neon accents, micro-animations",
+  "repository": "warteamx/rosarabbit",
+  "keywords": [
+    "hexo",
+    "theme",
+    "landscape"
+  ],
+  "license": "MIT"
+}
