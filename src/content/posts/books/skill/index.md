@@ -1,8 +1,8 @@
 ---
 title: "🚀 Skills & Productivity Mastery"
-description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 15 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
+description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 16 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
 date: 2025-07-13T09:43:11+02:00
-updated: 2026-09-30T17:45:00+02:00
+updated: 2026-09-30T18:00:00+02:00
 permalink: "books/skill/index"
 section: "books"
 tags: ["books", "skill"]
@@ -15,7 +15,7 @@ draft: false
 
 *Practical wisdom for peak performance and sustainable growth*
 
-**15 transformative books** | *Master the art of excellence*
+**16 transformative books** | *Master the art of excellence*
 
 </div>
 
@@ -52,6 +52,7 @@ draft: false
 - 📆 [**Grit**](/books/skill/grit-angela_duckworth) *by Angela Duckworth* - *The Power of Passion and Perseverance*
 - ✅ [**Getting things done**](/books/skill/getting_things_done-david_allen) *by David Allen* - *The Art of Stress-Free Productivity*
 - 🙊 [**Chatter**](/books/skill/chatter-ethan_kross) *by Ethan Kross* - *The Voice in Our Head, Why It Matters, and How to Harness It*
+- ❓ [**How to Not Know**](/books/skill/how_to_not_know-simone_stolzoff) *by Simone Stolzoff* — *The value of uncertainty in a world that demands answers*
 </div>
 
 ## 🌱 Health & Whole-Person Growth
