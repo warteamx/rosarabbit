@@ -1,6 +1,6 @@
 ---
 title: "🚀 Skills & Productivity Mastery"
-description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 15 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
+description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 16 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
 date: 2025-07-13T09:43:11+02:00
 updated: 2026-09-30T18:00:00+02:00
 permalink: "books/skill/index"
@@ -15,7 +15,7 @@ draft: false
 
 *Practical wisdom for peak performance and sustainable growth*
 
-**15 transformative books** | *Master the art of excellence*
+**16 transformative books** | *Master the art of excellence*
 
 </div>
 
@@ -60,6 +60,14 @@ draft: false
 <div>
 
 - 🩺 [**The Myth of Normal**](/books/skill/the_myth_of_normal-gabor_mate-daniel_mate) *by Dr. Gabor Maté & Daniel Maté* — *Trauma, illness, and healing in a toxic culture*
+
+</div>
+
+## 🕊️ Communication & Connection
+
+<div>
+
+- 🕊️ [**Nonviolent Communication**](/books/skill/nonviolent_communication-marshall_rosenberg) *by Marshall B. Rosenberg* — *A language of life*
 
 </div>
 
