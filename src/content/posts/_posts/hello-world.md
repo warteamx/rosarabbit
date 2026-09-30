@@ -53,6 +53,8 @@ This isn't just another blog — it's a **curated journey through the landscape 
 
 ### 🆕 Latest Reviews
 
+- 🧩 [**Extra Focus**](/books/adhd/extra_focus-jesse_j_anderson) *by Jesse J. Anderson*
+
 - 🌎 [**A Short History of Nearly Everything 2.0**](/books/social/short_history_nearly_everything_2.0-bill-bryson) *by Bill Bryson*
 
 - 🧩 [**ADHD 2.0**](/books/adhd/adhd_2.0-edward_hallowell-jonh_ratey) *by Edward M. Hallowell & John J. Ratey*
@@ -102,6 +104,7 @@ This isn't just another blog — it's a **curated journey through the landscape 
 *Support systems, focus tools, and practical frameworks for ADHD minds*
 
 - ⚡ [**ADHD 2.0**](/books/adhd/adhd_2.0-edward_hallowell-jonh_ratey) — *A strengths-based ADHD framework*
+- 🧠 [**Extra Focus**](/books/adhd/extra_focus-jesse_j_anderson) — *A quick-start guide for busy ADHD brains*
 - 🧭 [**The ADHD Field Guide for Adults**](/books/adhd/the_adhd_field_guide_for_adults-cate_osborn-erik_guide.md) — *Practical systems for everyday execution*
 - 🧠 [**Your Brain Is Not Broken**](/books/adhd/your_brain_is_not_broken-tamara_rosier) — *ADHD self-compassion and strategy toolkit*
 
