@@ -1,0 +1,26 @@
+---
+import type { PostEntry } from '../lib/posts';
+import { formatDate, getPostUrl, humanizeTag } from '../lib/posts';
+
+interface Props {
+  post: PostEntry;
+}
+
+const { post } = Astro.props;
+---
+
+<article class="card post-card">
+  <div class="post-card__meta">
+    <span>{formatDate(post.data.date)}</span>
+    <span>{humanizeTag(post.data.section)}</span>
+  </div>
+  <h3>
+    <a href={getPostUrl(post)}>{post.data.title}</a>
+  </h3>
+  <p>{post.data.description}</p>
+  <ul class="tag-list" aria-label="Post tags">
+    {post.data.tags.map((tag) => (
+      <li><a href={`/tags/${tag}/`}>#{humanizeTag(tag)}</a></li>
+    ))}
+  </ul>
+</article>

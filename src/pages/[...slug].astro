@@ -1,0 +1,54 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { formatDate, getPostUrl, humanizeTag } from '../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts
+    .filter((post) => !post.data.draft)
+    .map((post) => ({
+      params: {
+        slug: post.data.permalink
+      },
+      props: {
+        post
+      }
+    }));
+}
+
+const { post } = Astro.props;
+
+if (!post) {
+  throw new Error('Post route requires a post entry.');
+}
+
+const { Content } = await render(post);
+---
+
+<BaseLayout title={`${post.data.title} | RosaRabbit`} description={post.data.description}>
+  <article class="card prose-shell">
+    <header class="post-hero">
+      <p class="eyebrow">📎 {humanizeTag(post.data.section)}</p>
+      <h1>{post.data.title}</h1>
+      <div class="post-hero__meta">
+        <span>Published {formatDate(post.data.date)}</span>
+        {post.data.updated && <span>Updated {formatDate(post.data.updated)}</span>}
+      </div>
+      <ul class="tag-list" aria-label="Post tags">
+        {post.data.tags.map((tag) => (
+          <li><a href={`/tags/${tag}/`}>#{humanizeTag(tag)}</a></li>
+        ))}
+      </ul>
+    </header>
+
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+
+  <nav class="card back-link" aria-label="Post navigation">
+    <a href="/archive/">← Back to archive</a>
+    <a href={getPostUrl(post)}>Canonical route ↗</a>
+  </nav>
+</BaseLayout>

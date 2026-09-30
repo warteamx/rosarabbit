@@ -1,0 +1,40 @@
+---
+import SiteHeader from '../components/SiteHeader.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/css.css" />
+    <title>{title}</title>
+    <script is:inline>
+      const storageKey = 'rosarabbit-theme';
+      const savedTheme = localStorage.getItem(storageKey);
+      const preferredTheme =
+        savedTheme ?? (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      document.documentElement.dataset.theme = preferredTheme;
+    </script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <SiteHeader />
+      <main class="page-shell">
+        <slot />
+      </main>
+      <SiteFooter />
+    </div>
+  </body>
+</html>

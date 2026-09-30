@@ -1,28 +1,26 @@
 {
-  "name": "rosarabbit-hexo-site",
-  "version": "0.1.12",
-  "private": false,
-  "description": "A blog powered by Hexo + GitHub Pages + ChatGPT",
+  "name": "rosarabbit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RosaRabbit rebuilt with Astro for GitHub Pages.",
   "scripts": {
-    "build": "hexo generate",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server"
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check"
   },
-  "hexo": {
-    "version": "7.3.0"
+  "engines": {
+    "node": ">=20.0.0"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
-    "hexo-deployer-git": "^4.0.0",
-    "hexo-generator-archive": "^2.0.0",
-    "hexo-generator-category": "^2.0.0",
-    "hexo-generator-index": "^4.0.0",
-    "hexo-generator-tag": "^2.0.0",
-    "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^7.0.0",
-    "hexo-renderer-stylus": "^3.0.1",
-    "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0"
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.10.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.10",
+    "typescript": "^5.9.2"
   }
 }
