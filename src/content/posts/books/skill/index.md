@@ -1,8 +1,8 @@
 ---
 title: "🚀 Skills & Productivity Mastery"
-description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 12 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
+description: "🚀 Skills & Productivity Mastery Library Practical wisdom for peak performance and sustainable growth 13 transformative books | Master the art of excellence ⚡ Focus & Deep Work 🎯"
 date: 2025-07-13T09:43:11+02:00
-updated: 2026-06-24T14:27:48+02:00
+updated: 2026-09-30T17:01:12+02:00
 permalink: "books/skill/index"
 section: "books"
 tags: ["books", "skill"]
@@ -15,7 +15,7 @@ draft: false
 
 *Practical wisdom for peak performance and sustainable growth*
 
-**12 transformative books** | *Master the art of excellence*
+**13 transformative books** | *Master the art of excellence*
 
 </div>
 
@@ -38,6 +38,7 @@ draft: false
 - ✨ [**The Creative Act**](/books/skill/the_creative_act-rick-rubin) *by Rick Rubin* — *A way of being and creating*
 - 🏆 [**So Good They Can't Ignore You**](/books/skill/so_good_cant_ignore_you-cal_newport) *by Cal Newport* — *Building rare and valuable skills*
 - ⭐️ [**Transcend**](/books/skill/transcend-scott_barry_kaufman) *by Scott Barry Kaufman* - *grow beyond the self with purpose, love, and awe.*
+- 🧗 [**The Way of Excellence**](/books/skill/the_way_of_excellence-brad_stulberg) *by Brad Stulberg* — *A grounded path to sustainable mastery*
 
 </div>
 
