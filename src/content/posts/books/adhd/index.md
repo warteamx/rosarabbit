@@ -2,7 +2,7 @@
 title: "🧠 ADHD Library"
 description: "🧠 ADHD Library Practical strategies, science, and lived experience for adult ADHD 5 book reviews | Complete index of all ADHD reviews in this collection 📚 Complete Review Index A"
 date: 2026-06-24T14:27:48+02:00
-updated: 2026-09-30T15:52:00+02:00
+updated: 2026-09-30T17:22:00+02:00
 permalink: "books/adhd/index"
 section: "books"
 tags: ["books", "adhd"]
@@ -15,7 +15,7 @@ draft: false
 
 *Practical strategies, science, and lived experience for adult ADHD*
 
-**5 book reviews** | *Complete index of all ADHD reviews in this collection*
+**6 book reviews** | *Complete index of all ADHD reviews in this collection*
 
 </div>
 
@@ -29,6 +29,7 @@ draft: false
 - [**Extra Focus**](/books/adhd/extra_focus-jesse_j_anderson)
 - [**Taking Charge of Adult ADHD**](/books/adhd/taking_charge_of_adult_adhd-russell_barkley)
 - [**The ADHD Field Guide for Adults**](/books/adhd/the_adhd_field_guide_for_adults-cate_osborn-erik_guide.md)
+- [**The Adult ADHD Tool Kit**](/books/adhd/the_adult_adhd_tool_kit-ramsay_rostain)
 - [**Your Brain Is Not Broken**](/books/adhd/your_brain_is_not_broken-tamara_rosier)
 
 </div>
