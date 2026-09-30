@@ -23,6 +23,13 @@ draft: false
 
 ---
 
+# 👥 About the Authors
+
+- **Roxanne Emery** — also known by her stage name **RØRY**, a platinum-selling singer-songwriter, diagnosed with ADHD in her thirties. She writes from the inside of the ADHD experience.
+- **Richard Pink** — a former banker who is Roxanne's husband and the non-ADHD, supportive partner in their story and in their podcast, *ADHD Adults*.
+
+---
+
 # 📖 Table of Contents / Major Themes
 
 - Shame as the hidden core of the adult ADHD experience
@@ -38,11 +45,11 @@ draft: false
 
 # 🌟 Overview
 
-*Dirty Laundry* is written by Richard Pink, who was diagnosed with ADHD as an adult, and his wife Roxanne Emery, who does not have ADHD. Together they host the popular podcast *ADHD Adults*, and the book grew directly out of the thousands of conversations, messages, and stories they collected from that community. The result is a book that is part memoir, part relationship story, and part practical guide, built around a single, urgent question: why do so many adults with ADHD feel deep, corrosive shame about who they are?
+*Dirty Laundry* is written by Roxanne Emery — also known by her stage name RØRY, a platinum-selling singer-songwriter — who was diagnosed with ADHD in her thirties, and her husband Richard Pink, a former banker who is not neurodivergent and acts as her supportive partner. Together they host the popular podcast *ADHD Adults*, and the book grew directly out of the thousands of conversations, messages, and stories they collected from that community. The result is a book that is part memoir, part relationship story, and part practical guide, built around a single, urgent question: why do so many adults with ADHD feel deep, corrosive shame about who they are?
 
 The title captures the book's central metaphor. ADHD symptoms are frequently framed as a private failing — the unwashed pile of laundry, the missed bill, the forgotten appointment, the blurted-out comment — rather than as the visible tip of a neurological difference. Pink and Emery argue that this "dirty laundry" is usually hidden out of embarrassment, and that hiding it is exactly what keeps shame alive. The book's mission is to air that laundry openly, with honesty and humor, so that readers can recognize themselves in it and feel less alone.
 
-What makes the book distinctive is its dual narration. Richard writes candidly about what ADHD feels like from the inside: the racing thoughts, the rejection sensitivity, the cycles of hyperfocus and burnout, and the exhausting effort of masking in order to seem "normal." Roxanne writes from the outside: the confusion, frustration, and eventual understanding of loving someone whose brain works differently, and the practical and emotional labor that often falls on partners of people with ADHD. Interwoven with their personal story are interviews with clinicians, researchers, and members of the ADHD Adults community, giving the book both intimacy and breadth.
+What makes the book distinctive is its dual narration. Roxanne writes candidly about what ADHD feels like from the inside: the racing thoughts, the rejection sensitivity, the cycles of hyperfocus and burnout, and the exhausting effort of masking in order to seem "normal." Richard writes from the outside: the confusion, frustration, and eventual understanding of loving someone whose brain works differently, and the practical and emotional labor that often falls on partners of people with ADHD. Interwoven with their personal story are interviews with clinicians, researchers, and members of the ADHD Adults community, giving the book both intimacy and breadth.
 
 > **Core idea:** Adult ADHD is not a character flaw. The shame surrounding it is not an inevitable side effect of the condition — it is largely the product of a lifetime of being misunderstood, and it can be unlearned.
 
@@ -60,7 +67,7 @@ For many adults, an ADHD diagnosis arrives only after decades of struggling with
 
 ## 3. ADHD affects the whole household, not just the individual
 
-Roxanne's chapters emphasize that ADHD is a relational experience. Partners, children, and friends absorb the unpredictability, the forgotten commitments, and the emotional intensity. The book is unusually honest about resentment, exhaustion, and the imbalance of "invisible labor" that can build up in a relationship — while also showing how understanding and structure can rebalance that load.
+Richard's chapters emphasize that ADHD is a relational experience. Partners, children, and friends absorb the unpredictability, the forgotten commitments, and the emotional intensity. The book is unusually honest about resentment, exhaustion, and the imbalance of "invisible labor" that can build up in a relationship — while also showing how understanding and structure can rebalance that load.
 
 ## 4. Masking is exhausting and often invisible
 
@@ -90,15 +97,15 @@ Richard and Roxanne introduce the origins of the book in their podcast and their
 
 ## 🧠 Part I — Growing Up Undiagnosed
 
-Richard recounts his childhood and young adulthood before his ADHD diagnosis: being labeled disorganized, forgetful, or "too much," and absorbing those labels as facts about his character rather than symptoms of an undiagnosed condition. This section lays the groundwork for understanding how shame is built, often starting in school and family life.
+Roxanne recounts her childhood and young adulthood before her ADHD diagnosis: being labeled disorganized, forgetful, or "too much," and absorbing those labels as facts about her character rather than symptoms of an undiagnosed condition. This section lays the groundwork for understanding how shame is built, often starting in school and family life.
 
 ## 💍 Part II — Meeting, Marrying, and Misunderstanding
 
-Roxanne describes falling in love with Richard before either of them understood ADHD was involved, and the confusion that followed as his behavior didn't match typical explanations like carelessness or lack of love. This part is candid about arguments, misread intentions, and the slow process of realizing that a different explanation was needed.
+Richard describes falling in love with Roxanne before either of them understood ADHD was involved, and the confusion that followed as her behavior didn't match typical explanations like carelessness or lack of love. This part is candid about arguments, misread intentions, and the slow process of realizing that a different explanation was needed.
 
 ## 🩺 Part III — Getting Diagnosed
 
-The couple walks through the process of pursuing a formal ADHD diagnosis as an adult: the waiting lists, the assessments, and the mixture of validation and grief that followed. They discuss how the diagnosis reframed years of past conflict and self-criticism.
+The couple walks through the process of pursuing a formal ADHD diagnosis for Roxanne as an adult: the waiting lists, the assessments, and the mixture of validation and grief that followed. They discuss how the diagnosis reframed years of past conflict and self-criticism.
 
 ## 💊 Part IV — Treatment, Trial, and Error
 
@@ -106,7 +113,7 @@ This section covers medication experiences, side effects, and the process of fin
 
 ## 🏠 Part V — Living Together with ADHD
 
-Here the authors get practical about day-to-day life: dividing household responsibilities, managing finances, communicating about forgotten tasks without blame, and building routines that account for ADHD rather than fighting against it. Roxanne is especially direct about the emotional labor she has carried and how the couple has worked to rebalance it.
+Here the authors get practical about day-to-day life: dividing household responsibilities, managing finances, communicating about forgotten tasks without blame, and building routines that account for ADHD rather than fighting against it. Richard is especially direct about the emotional labor he has carried and how the couple has worked to rebalance it.
 
 ## 🗣️ Part VI — Voices from the Community
 
@@ -132,7 +139,7 @@ The book's descriptions of forgetfulness, disorganization, and difficulty follow
 
 ## Rejection Sensitive Dysphoria (RSD)
 
-Richard's accounts of intense emotional reactions to perceived criticism reflect the concept of Rejection Sensitive Dysphoria, popularized by William Dodson, which describes the extreme emotional pain many people with ADHD feel in response to real or perceived rejection.
+Roxanne's accounts of intense emotional reactions to perceived criticism reflect the concept of Rejection Sensitive Dysphoria, popularized by William Dodson, which describes the extreme emotional pain many people with ADHD feel in response to real or perceived rejection.
 
 ## Shame research
 
@@ -144,7 +151,7 @@ The grief and relief described around late diagnosis is consistent with clinical
 
 ## Couples and family systems affected by ADHD
 
-Roxanne's perspective aligns with research and clinical writing (such as Melissa Orlov's work on ADHD and marriage) showing that ADHD symptoms ripple outward into relationships, often creating patterns of resentment and imbalance that require deliberate communication and structural change to resolve.
+Richard's perspective aligns with research and clinical writing (such as Melissa Orlov's work on ADHD and marriage) showing that ADHD symptoms ripple outward into relationships, often creating patterns of resentment and imbalance that require deliberate communication and structural change to resolve.
 
 ---
 
@@ -262,7 +269,7 @@ This book is especially useful for:
 
 # ✅ Conclusion
 
-*Dirty Laundry* succeeds because it treats shame, not just ADHD symptoms, as the central problem to address. By narrating the same relationship from two very different vantage points — Richard's lived experience of ADHD and Roxanne's experience of loving and living alongside it — Pink and Emery create a book that feels less like a lecture and more like a conversation with two honest friends.
+*Dirty Laundry* succeeds because it treats shame, not just ADHD symptoms, as the central problem to address. By narrating the same relationship from two very different vantage points — Roxanne's lived experience of ADHD and Richard's experience of loving and living alongside it — Pink and Emery create a book that feels less like a lecture and more like a conversation with two honest friends.
 
 The book does not promise a cure, a perfect system, or a life free of struggle. Instead, it offers something arguably more valuable: permission to stop hiding the parts of yourself that ADHD makes visible, and the reassurance that those parts do not make you broken, lazy, or unlovable.
 
