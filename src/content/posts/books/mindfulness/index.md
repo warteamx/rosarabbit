@@ -15,7 +15,7 @@ draft: false
 
 *Mindfulness, emotional balance, and practical tools for daily life*
 
-**4 book reviews** | *Complete index of all reviews in this collection*
+**5 book reviews** | *Complete index of all reviews in this collection*
 
 </div>
 
@@ -29,6 +29,7 @@ draft: false
 - [**Move the Body, Heal the Mind by Dr. Jennifer Heisz**](/books/mindfulness/move_the_body_heal_the_mind-jennifer_heisz)
 - [**Open When**](/books/mindfulness/open_when-julia_smith)
 - [**Outlive**](/books/mindfulness/outlive-peter_attila)
+- [**Still Here: Embracing Aging, Changing, and Dying — Ram Dass**](/books/mindfulness/still_here-ram_dass)
 
 </div>
 
