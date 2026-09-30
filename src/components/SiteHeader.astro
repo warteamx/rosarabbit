@@ -1,0 +1,33 @@
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="site-brand" href="/">
+      <span class="site-brand__emoji">🌹🐇</span>
+      <span>
+        <strong>RosaRabbit</strong>
+        <small>software lab</small>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <a href="/">🏠 Home</a>
+      <a href="/archive/">🗂 Archive</a>
+      <a href="/tags/">🏷 Tags</a>
+    </nav>
+
+    <button class="theme-toggle" type="button" aria-label="Toggle color theme" data-theme-toggle>
+      🌗 Theme
+    </button>
+  </div>
+</header>
+
+<script is:inline>
+  const storageKey = 'rosarabbit-theme';
+  const button = document.querySelector('[data-theme-toggle]');
+
+  button?.addEventListener('click', () => {
+    const currentTheme = document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+    const nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    document.documentElement.dataset.theme = nextTheme;
+    localStorage.setItem(storageKey, nextTheme);
+  });
+</script>

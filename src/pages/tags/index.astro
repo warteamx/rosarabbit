@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getTagCounts, humanizeTag } from '../../lib/posts';
+
+const tags = getTagCounts(await getCollection('posts'));
+---
+
+<BaseLayout
+  title="Tags | RosaRabbit"
+  description="Browse RosaRabbit posts by folder-derived tags."
+>
+  <section class="page-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">🏷 Tags</p>
+        <h1>Browse the taxonomy</h1>
+      </div>
+      <p>Tags are inherited from the original Hexo folder structure.</p>
+    </div>
+
+    <div class="tag-cloud">
+      {tags.map(({ tag, count }) => (
+        <a class="tag-pill" href={`/tags/${tag}/`}>
+          <span>#{humanizeTag(tag)}</span>
+          <strong>{count}</strong>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

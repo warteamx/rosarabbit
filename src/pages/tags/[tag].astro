@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { filterPostsByTag, getTagCounts, humanizeTag } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return getTagCounts(posts).map(({ tag }) => ({ params: { tag } }));
+}
+
+const { tag } = Astro.params;
+
+if (!tag) {
+  throw new Error('Tag route requires a tag parameter.');
+}
+
+const posts = filterPostsByTag(await getCollection('posts'), tag);
+---
+
+<BaseLayout
+  title={`${humanizeTag(tag)} | RosaRabbit tags`}
+  description={`Posts tagged with ${humanizeTag(tag)} on RosaRabbit.`}
+>
+  <section class="page-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">🏷 Tag</p>
+        <h1>#{humanizeTag(tag)}</h1>
+      </div>
+      <p>{posts.length} posts in this stream.</p>
+    </div>
+
+    <div class="post-grid">
+      {posts.map((post) => (
+        <PostCard post={post} />
+      ))}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,79 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getFeaturedPosts, getTagCounts, groupPostsBySection, humanizeTag, getPostUrl } from '../lib/posts';
+
+const posts = await getCollection('posts');
+const featuredPosts = getFeaturedPosts(posts, 9);
+const tags = getTagCounts(posts).slice(0, 8);
+const sections = groupPostsBySection(posts).slice(0, 4);
+---
+
+<BaseLayout
+  title="RosaRabbit | Astro software lab"
+  description="A personal software lab for books, research, psychology, and reflective systems."
+>
+  <section class="hero card hero-panel">
+    <p class="eyebrow">🌹🐇 Personal software laboratory</p>
+    <h1>RosaRabbit now runs as an Astro-native knowledge garden.</h1>
+    <p class="hero-copy">
+      Essays, book notes, research trails, and reflective systems — rebuilt with faster static delivery,
+      cleaner structure, and a brand system tuned for dark-mode creative work.
+    </p>
+    <div class="hero-actions">
+      <a class="button button--primary" href="/archive/">⚡ Explore the archive</a>
+      <a class="button button--ghost" href="/tags/">🏷 Browse tags</a>
+    </div>
+  </section>
+
+  <section class="section-grid">
+    {sections.map(({ section, entries }) => (
+      <article class="card section-card">
+        <div class="section-card__header">
+          <p class="eyebrow">🧭 Section</p>
+          <h2>{humanizeTag(section)}</h2>
+        </div>
+        <p>{entries.length} posts migrated into this track.</p>
+        <ul class="section-list">
+          {entries.slice(0, 3).map((post) => (
+            <li>
+              <a href={getPostUrl(post)}>{post.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </article>
+    ))}
+  </section>
+
+  <section class="page-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">🔥 Recent highlights</p>
+        <h2>Latest published posts</h2>
+      </div>
+    </div>
+    <div class="post-grid">
+      {featuredPosts.map((post) => (
+        <PostCard post={post} />
+      ))}
+    </div>
+  </section>
+
+  <section class="page-section">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">👾 Taxonomy</p>
+        <h2>Explore by folder-derived tags</h2>
+      </div>
+    </div>
+    <div class="tag-cloud">
+      {tags.map(({ tag, count }) => (
+        <a class="tag-pill" href={`/tags/${tag}/`}>
+          <span>#{humanizeTag(tag)}</span>
+          <strong>{count}</strong>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
