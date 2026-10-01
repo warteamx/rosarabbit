@@ -1,6 +1,6 @@
 ---
 title: "🧠 Psychology & Mind Sciences"
-description: "🧠 Psychology & Mind Sciences Library Exploring consciousness, behavior, and the path to mental well being 49 book reviews | Complete index of all reviews in this collection 📚 Com"
+description: "🧠 Psychology & Mind Sciences Library Exploring consciousness, behavior, and the path to mental well being 48 book reviews | Complete index of all reviews in this collection 📚 Com"
 date: 2025-05-22T13:20:48+02:00
 updated: 2026-09-30T16:33:00+02:00
 permalink: "books/psyque/index"
@@ -15,7 +15,7 @@ draft: false
 
 *Exploring consciousness, behavior, and the path to mental well-being*
 
-**49 book reviews** | *Complete index of all reviews in this collection*
+**48 book reviews** | *Complete index of all reviews in this collection*
 
 </div>
 
@@ -65,7 +65,6 @@ draft: false
 - [**The End of Overeating**](/books/psyque/the_end_of_overeating-david_kessler)
 - [**The Gifts of Imperfection**](/books/psyque/the_gifts_of_imperfection-brene-brown)
 - [**The Grieving Brain**](/books/psyque/the_grieving_brain-mary-frances-o_connor)
-- [**The Judgement Trap by Shalini Vardhan**](/books/psyque/the_judgement_trap-shalini_vardhan)
 - [**The Molecule of More**](/books/psyque/the_molecule_of_more-daniel-z-lieberman-michael-long)
 - [**The Power of Now**](/books/psyque/the_power_of_now-eckhart_tolle)
 - [**The Power of Regret**](/books/psyque/the_power_of_regret-daniel_h_pink)
